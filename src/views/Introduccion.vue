@@ -9,13 +9,14 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 Para dar inicio al componente formativo, observe el siguiente video, el cual relaciona los elementos a tener en cuenta en el desarrollo de los conceptos:
+    p.mb-5 Una bienvenida al guionaje de grupos que es la principal parte del trabajo como guía tal como se puede revisar en el siguiente video:
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/OkpCtbomsKo" title="Guionaje de grupos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
-    
+
+   
     
 </template>
 
