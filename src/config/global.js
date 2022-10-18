@@ -39,14 +39,27 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Herramientas de comunicación interpretativa',
+            titulo:
+              'Pautas de atención y manejo de felicitación, peticiones, quejas y reclamos',
             hash: '#t_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Comunicación no verbal en el guionaje ',
+            titulo: 'Protocolos para el servicio guiado',
             hash: '#t_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Marco de la actuación del guía en Colombia',
+            hash: '#t_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Buenas prácticas para el guía de turismo',
+            hash: '#t_1_4',
           },
         ],
       },

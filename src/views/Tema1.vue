@@ -307,10 +307,467 @@
             i.fas.fa-paper-plane 
             | Hable con la verdad durante el desarrollo del recorrido  (Servicio Nacional de Turismo, SENATUR, 2016).   
     Separador
-    
+
     #t_1_2.titulo-segundo.color-acento-contenido
       .h2 1.2. Comunicación no verbal en el guionaje 
 
+    p.mb-4 Por antecedentes históricos, las reglas y costumbres protocolarias sirven para normalizar cualquiera de las instituciones y gobiernos o las personas mismas que los constituyen. Todo el mundo sabe también que el protocolo determina la precedencia, así́ como el tratamiento y la equivalencia entre autoridades gubernamentales, diplomáticas, religiosas, militares, pero también en el sector y empresas privadas, en este caso en el sector turístico y hotelero, que es un gremio especialmente particular.
+
+    .row.align-items-center.mb-4
+      .col-lg-6
+        p.mb-4 El sector turístico es reconocido por poner en práctica, reglas y métodos diferenciadores, conocidos como valor agregado al momento de entrar en contacto con clientes y actores relacionados con la actividad turística.
+        .bloque-texto-c.color-acento-contenido.opa.p-4
+          i.fas.fa-quote-right
+          p.mb-0 <b>Un protocolo se define como el conjunto de reglas que se deben seguir en el cumplimiento del ejercicio del guionaje turístico. El momento de la ejecución es aquel donde el guía tiene el contacto con el turista y es allí donde se ponen en práctica los pasos o requisitos a realizar durante la apertura del servicio hasta la finalización de este.</b>
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/tema1/img6.jpg', alt='')
+
+    .row.align-items-center.mb-4
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/tema1/img7.jpg', alt='')
+      .col-lg-6
+        p.mb-4 Con el fin de realizar el procedimiento de apertura y cierre en la atención y servicio al cliente, es importante diseñar listas de chequeo que permitan realizar el seguimiento a cada uno de los pasos involucrados en la prestación del servicio en la guianza turística.  
+        p.mb-0 En suma, el guía de turismo debe tener claro que desde la contratación de sus servicios ya sea directo con el cliente o a través de un contratante como la agencia de viajes, se verifica que conozca e interprete los protocolos de servicio al cliente; es el guía quien solicita a la agencia de viajes las listas de chequeo de la empresa, o si no, elabora sus propios protocolos de servicio. En estos casos, debe cumplir con las normas generales de la prestación del servicio.
+
+    .row.align-items-center.mb-4
+      .col-lg-8
+        p.mb-4 Un protocolo de atención es un documento que expresa un proceso determinado de la empresa, definiendo la unidad técnica, y por ende la forma de actuar homogénea frente a algo. Los protocolos de servicio fortalecen la imagen de la empresa, garantizan una prestación del servicio con calidad, generan confianza y lealtad con los clientes y crean sentido de pertenencia a los equipos de trabajo.
+        p.mb-0 Según la Real Academia Española, RAE, un protocolo es <b> <FONT COLOR="#FD6300"> es “una secuencia detallada de un proceso de actuación científica, técnica, médica, etc”. </FONT> </b> Para la guianza proporciona los parámetros a seguir en recorridos turísticos naturales o culturales, en el cumplimiento de la labor. Los pasos para acoplar los protocolos en el servicio son (ver figuras 2 y 3):
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/8.png', alt='')
+
+    .row.justify-content-center.mb-0
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 2
+          span Pasos para apropiar protocolos
+      .col-lg-10
+        figure.mb-4
+          img(src='@/assets/curso/tema1/vec2.svg', alt='')
+
+    .row.justify-content-center.mb-0
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 3
+          span Protocolos relacionados con el servicio guiado
+
+      .col-lg-12
+        figure
+          img(src='@/assets/curso/tema1/vec3.svg', alt='')
+        figcaption.mb-4 Nota. Adaptado de Norma Técnica Sectorial para Guías de turismo 012.
+    p.mb-4 Clasificar los protocolos necesita de herramientas de organización de la información, a continuación, se presenta un modelo (ver tabla 2):
+
+    .row.justify-content-center.mb-4
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 2  
+          span Ejemplo formato para la clasificación y diseño de los protocolos para la guianza
+      .col-lg-12
+        .tabla-a.color-acento-botones 
+          table
+            thead
+              tr
+                th.ancho Criterios de desempeño 
+                th.ancho1 Descripción de cómo se presenta (Protocolo)
+                th Cumple 
+                th No cumple 
+                th Observaciones
+            tbody
+              tr
+                td
+                  p.text-center.mb-4 Antes
+                  p.text-center.mb-0 Informa sobre la indumentaria necesaria para la ruta.
+                td.p-4 Por medio de un correo o mensaje de texto a los turistas se enlistará cuál es la indumentaria necesaria para el recorrido. 
+                td
+                td
+                td
+              tr
+                td
+                  p.text-center.mb-4 Durante
+                  p.text-center.mb-0 Comunica aspectos generales del destino: número de habitantes, ubicación geográfica y su clima.
+                td.p-4 El guion contiene la información de los datos geográficos de ubicación, direcciones exactas, mapas del recorrido y el clima para informar a los turistas.  
+                td
+                td
+                td
+              tr
+                td
+                  p.text-center.mb-4 Después
+                  p.text-center.mb-0 Realiza una retroalimentación con el usuario sobre el desarrollo del programa y la prestación del servicio.
+                td.p-4 Se envía la encuesta electrónicamente al final del recorrido. 
+                td
+                td
+                td
+    p.mb-4 Este formato funciona como verificación y permite al guía, planear el servicio y luego hacer el seguimiento de la efectividad de dicha planeación. 
+
+    .row.align-items-center.mb-4
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/img8.jpg', alt='')
+      .col-lg-8
+        p.mb-4 De otra parte, en Colombia hay servicios especializados, que tienen sus propias normas que detallan los protocolos. Estos se están actualizando cada cinco (5) años, para el año 2021 están vigentes las que se enuncian: 
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            | NTS-GT005 NTS-GT005 Conducción de grupos en recorridos ecoturísticos.
+          li
+            i.fas.fa-paper-plane 
+            | NTS-GT008 Recorridos guiados en museos.
+          li
+            i.fas.fa-paper-plane 
+            | NTS-GT009 Conducción de grupos en recorridos de alta montaña.
+          li
+            i.fas.fa-paper-plane 
+            | NTS-GT010 Prestación del servicio de guianza de acuerdo con lo requerido por el pasajero de cruceros, sujeto a un itinerario de llegada y salida del barco. 
+          li
+            i.fas.fa-paper-plane 
+            | NTS-GT011 Conducción de grupos en recorridos de cabalgata. Es un deber conocer esta normativa, por eso se invita a revisarlas en línea en el siguiente enlace.
+
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-1.col-sm-1.col-lg-1
+              span
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema1/vec4.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Normatividad
+                  p.text-small Es un deber conocer esta normativa, por eso se invita a revisarlas en línea en el siguiente enlace.
+                .col-sm-auto
+                  a.boton.color-acento-contenido.texto-blanco(href=" https://portucolombia.mincit.gov.co/noticias/viceministerio-de-turismo-direccion-de-analisis-se#gsc.tab=0 " target="_blank")
+                    span Ir al enlace
+                    i.fas.fa-file-download
+    .row.align-items-center.mb-4
+      .col-lg-8
+        .cajon.color-secundario(style='background-color: #E2EBDE').p-4
+          p.mb-0 Las Normas Técnicas Sectoriales son los parámetros especializados que definen el paso a paso, condiciones de calidad y pertinencia de las acciones de profesionales del turismo. Se proyectan desde la política pública con la participación de los sectores, empresas, educación y capacitación, y tienen como función orientar y parametrizar de forma específica los procesos y procedimientos laborales de prestadores de servicios.
+        p.mb-4 Desde las normas de seguridad y medio ambiente hasta las normas sectoriales relacionadas con la prestación del servicio de guianza turística, se establecen orientaciones que el guía de turismo debe tener en cuenta para darle calidad al servicio guiado al elaborar los planes de acción y de contingencia de acuerdo con los objetivos establecidos. 
+        p.mb-4 La normatividad en general es materia de estudio para el guía, entendiendo que al ser un conjunto de normas algunas legales, sectoriales o de desarrollo, definen, regulan o se rige determinada materia o actividad incluido el servicio.
+        p.mb-4 Toda actividad humana relacionada con el trabajo necesita regirse por procesos y procedimientos; los procesos organizan los momentos, tiempos, acciones relacionadas con la labor que llevan al cumplimiento de objetivos. Los procedimientos, constituyen los métodos y técnicas que  identifican el paso a paso e integración de momentos y acciones de individuos bajo unos propósitos de orden, base legal y alcance, que hacen parte de la estructuración y metas de la organización, que identifica a la empresa y refleja la cultura de hacer las cosas.
+        p.mb-0 A continuación, se presentan procesos y procedimientos del servicio prestado por un guía(ver tabla 3):
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/img9.jpg', alt='')
+    
+    .row.justify-content-center.mb-4
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 3
+          span Ejemplos procesos y procedimientos
+      .col-lg-12
+        .tabla-a.color-acento-botones 
+          table
+            thead
+              tr
+                th Proceso
+                th Procedimiento
+            tbody
+              tr
+                td Verificación anticipada documentos de viajeros 
+                td Revisar seguros y condiciones de salud, pago, servicios especiales de viajeros según contrato de servicios.  Uso de lista de chequeo.
+              tr
+                td Control de inventario de materiales, equipos e insumos de recorrido
+                td Registro de inventario, actualización de cantidades y calidad de materiales, equipos e insumos para las actividades.
+              tr
+                td Evaluación posterior al servicio prestado en recorrido
+                td Diseño o análisis de instrumentos.  Recolección de información sobre satisfacción del servicio prestado. Sistematización y análisis de resultados.  Presentación de informe.  Solución a situaciones.  Plan de mejora.  
+    Separador
+
+    #t_1_3.titulo-segundo.color-acento-contenido
+      .h2 1.3. Marco de la actuación del guía en Colombia
+
+    .tarjeta.colordesborde.p-3.mb-4
+      .row.align-items-center
+        .col-lg-1
+          figure
+            img(src='@/assets/curso/tema1/vec5.svg', alt='')
+        .col-lg-11
+          p.mb-0 El guía de turismo enmarca sus acciones en una normativa internacional denominada:  Código ético mundial para el turismo que impacta el contexto normativo nacional.
+
+    .row.align-items-center.mb-4
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/tema1/vec6.svg', alt='')
+      .col-lg-7
+        p.mb-4 En el código de ética de turismo se expone el derecho al turismo y a la libertad de desplazamiento turístico con el fin de promover el turismo equitativo, responsable y sostenible, en beneficio mutuo de todos los sectores de la sociedad en un entorno mundial; su importancia está descrita en los fines:
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            | Fortalecer una cultura ética y de servicio.  
+          li
+            i.fas.fa-paper-plane 
+            | Permitir un diálogo reflexivo y solidario entre los miembros de una organización.   
+          li
+            i.fas.fa-paper-plane 
+            | Ayudar a priorizar principios y valores que se dirijan hacia la humanización de los recursos existentes.    
+          li
+            i.fas.fa-paper-plane 
+            | Diferenciar entre lo correcto y lo incorrecto.   
+          li
+            i.fas.fa-paper-plane 
+            | Tener en consideración las reglas de algún lugar en específico. 
+          li
+            i.fas.fa-paper-plane 
+            | Saber sobre las obligaciones en determinados lugares.      
+          li
+            i.fas.fa-paper-plane 
+            | Tener una buena interacción con las personas alrededor.
+    p.mb-4 El Código Ético Mundial para el Turismo presenta principios que orientan a los principales actores del desarrollo turístico, está dirigido a la gobernabilidad, sector, empresas turísticas, comunidades receptoras y a turistas por igual. Su objetivo es maximizar los beneficios del sector, analizando y previendo las consecuencias negativas para el medio ambiente, el patrimonio cultural, las sociedades de alrededor del mundo y la práctica de un turismo sin responsabilidad, ante todo social.   
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/imgtext.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 TAprobado en 1999 por la asamblea general de la Organización Mundial del Turismo, fue reconocido por las Naciones Unidas que explícitamente acompaña y apoya a la OMT, a promover el cumplimiento eficiente de las disposiciones escritas en este documento.  El código carece de jurisprudencia, es decir, no relaciona castigo alguno y es un mecanismo de aplicación voluntaria, con reconocimiento del papel del Comité Mundial de Ética del Turismo, si las partes pueden remitir cualquier cuestión relativa a la aplicación e interpretación del documento especialmente cuando hay incumplimiento.
+
+    p.mb-4 Con tan sólo diez artículos el código cubre los componentes de las estructuras relacionadas con el turismo en cuanto a lo económico, social, cultural y ambiental de los viajes:
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 1
+              p Contribución del turismo al entendimiento y al respeto mutuo entre hombres y sociedades.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 2
+              p El turismo, instrumento de desarrollo personal y colectivo.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 3
+              p El turismo, factor de desarrollo sostenible.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 4
+              p El turismo, factor de aprovechamiento y enriquecimiento del patrimonio cultural de la humanidad.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 5
+              p El turismo, actividad beneficiosa para los países y las comunidades de destino.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 6
+              p Obligaciones de los agentes del desarrollo turístico.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 7
+              p Derecho al turismo.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 8
+              p Libertad de desplazamiento turístico.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 9
+              p Derechos de los trabajadores y de los empresarios del sector turístico.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/curso/tema1/avatar7.svg' alt='AvatarTop')
+          .tarjeta.color-ama2
+            .p-4
+              h4.text-center Artículo 10
+              p Aplicación de los principios del Código Ético Mundial para el Turismo.  (Organización Mundial del Turismo, s.f.)
+
+    .row.align-items-center.mb-4
+      .col-lg-8
+        p.mb-0 En Colombia, el guía de turismo cuenta con un código de ética emanado de la interpretación de la normativa internacional, el cual comprende las reglas de juego claras en el ejercicio de la profesión. Para ello, se dictó el Código de Ética del Guía de Turismo, mediante la resolución 221 del 8 de abril de 1999, por el cual se deroga la resolución 002 del 10 de octubre de 1997 y se dicta el código de ética  profesional  del  guía  de  turismo  cuya  finalidad  es orientar a partir de  los  parámetros de  la  legislación  turística  de  país,  constituyéndose  en  un  conjunto  de  reglas  de comportamiento  que,  aplicadas  a  la  profesión,  inducen  a  los  guías  de  turismo a ejecutar sus  funciones  y  a  evitar  cualquier  acción  negativa  que  vaya  en detrimento de la profesión, de sus colegas o de la nación en general. Detalla las funciones de guía y otros aspectos como deberes y obligaciones, prohibiciones a los guías de turismo, principios de lealtad y respeto, procedimientos para infracción y sanciones.
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/img10.jpg', alt='')
+    p.mb-4 En el año 2016, la resolución 135 modificó el Código de ética del guía, algunos aspectos a resaltar son: 
+
+    .row.justify-content-center.mb-4
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec7.svg', alt='Texto que describa la imagen')
+          h4.text-center Principios
+          p.text-small Honestidad, lealtad y respeto.
+
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec8.svg', alt='Texto que describa la imagen')
+          h4.text-center Deberes
+          p.text-small Actualizar el RNT, poseer las competencias lingüísticas en el idioma que se requiera.
+
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec9.svg', alt='Texto que describa la imagen')
+          h4.text-center Reportes
+          p.text-small Poner en conocimiento de las autoridades obstáculos o dificultades durante la prestación del servicio.
+
+    .row.justify-content-center.mb-4  
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec10.svg', alt='Texto que describa la imagen')
+          h4.text-center Actualización
+          p.text-small Mantenerse actualizado de las novedades legales y regulares de su profesión. 
+
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec11.svg', alt='Texto que describa la imagen')
+          h4.text-center Tarjeta profesional de guía de turismo
+          p.text-small Portar el documento personal e intransferible, en caso de pérdida es obligatoria la denuncia.
+
+      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+        .tarjeta--boton.tarjetaver.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              .tarjeta.coloravatar.p-4
+                figure
+                  img(src='@/assets/curso/tema1/vec12.svg', alt='Texto que describa la imagen')
+          h4.text-center Sanciones
+          p.text-small Suspensión el RNT, procesos disciplinarios tendrán libertad probatoria
+
+    .row.align-items-center.mb-4 
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/tema1/img11.jpg', alt='Texto que describa la imagen')
+      .col-lg-7
+        p.mb-4 Un modificación muy importante que se debe tener siempre presente es en relación a las prohibiciones del Código de Ética:
+        .bloque-texto-c.color-acento-contenido.opa.p-4
+          i.fas.fa-quote-right
+          p.mb-0 <b>Emplear recursos o mecanismos diferentes a sus capacidades profesionales, ejercer su actividad fuera del ámbito de su especialidad, suministrar información errónea, poner en riesgo la integridad física, moral, económica y psicológica del turista o pasajero a cargo, subestimar enfermedades o dolencias de los turistas, coaccionar los turistas a realizar compras.</b>
+    Separador
+
+    #t_1_3.titulo-segundo.color-acento-contenido
+      .h2 1.4. Buenas prácticas para el guía de turismo
+
+    .row.mb-4
+      .col-lg-12
+        .bloque-texto-g.fondo1.p-3.p-sm-4.p-md-4.my-4.otrobloque
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.png')})`}"
+          )
+          .bloque-texto-g__texto.py-5.px-4
+            p Una buena práctica se define como los medios ideales para ejecutar un proceso, implementándolo en todas y cada una de las áreas de gestión y operación del prestador de servicios turísticos -PST-; permite garantizar que la ejecución se desarrolle con un grado de calidad de excelencia produciendo el menor impacto negativo posible, es decir sin dejar huella, lo cual mejora la imagen de prestador frente al cliente, frente a su relación son el entorno y por ende el desempeño socioeconómico (Ministerio de Comercio y Colombia Productiva. 2021)(ver figura 4).   
+    
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 4
+          span Buenas prácticas
+      .col-lg-10
+        figure.mb-2
+          img(src='@/assets/curso/tema1/info2.svg', alt='')
+          figcaption.mb-4 Nota. Cartilla de buenas prácticas de sostenibilidad para empresarios turísticos de IDT y Alcaldía Local de Teusaquillo (s.f.).
+
+    .row.align-items-center.mb-4 
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/tema1/9.png', alt='Texto que describa la imagen')  
+      .col-lg-6
+        p.mb-4 Las buenas prácticas en el turismo impactan las acciones del guía favoreciendo por ejemplo las de cultura y visitas en recorridos que se hacen a través de observaciones como:
+        AcordionA(tipo="b" clase-tarjeta="color-ver")
+          .row(titulo="Limitar el número de visitas del recurso")
+            .col-md-12.mb-4.mb-md-0
+              p La visita a una ermita o a un espacio natural protegido, puede verse afectada por un número elevado de visitantes al año, por eso, es importante controlar la afluencia de visitantes, va a permitir alargar la vida de este.
+          
+          .row(titulo="Realizar reproducciones de recursos únicos")
+            .col-md-12.mb-4.mb-md-0
+              p La visita a una cueva con restos prehistóricos o una pieza arqueológica puede verse afectada por un exceso de visitas, la reproducción de algunos espacios o bienes permite impide limitar el número de visitas y alargar su vida.
+          
+          .row(titulo="Mantener las tradiciones locales tal y como se crearon")
+            .col-md-12.mb-4.mb-md-0
+              p Evitar cambiar la fecha a otra con mayor afluencia de visitantes donde la tradición pierda el motivo por el que fue creada.
+    p.mb-4 También existe normativa de las buenas prácticas en el turismo cultural y naturaleza, se rescatan los siguientes principios:
+
+    .row.align-items-center.mb-4 
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/vec13.svg', alt='Texto que describa la imagen')    
+      .col-lg-8
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            | Elabore un plan de acción y respaldarlo.
+          li
+            i.fas.fa-paper-plane 
+            | Enliste la totalidad de elementos necesarios para el desarrollo de la actividad de manera adecuada
+          li
+            i.fas.fa-paper-plane 
+            | Verifique que se cuenta con los permisos y autorizaciones.
+          li
+            i.fas.fa-paper-plane 
+            | Manténgase informado sobre los materiales y propiedades físicas y químicas de los productos a utilizar en las actividades.
+          li
+            i.fas.fa-paper-plane 
+            | Cuente con una estrategia clara para minimizar la compra de provisiones e insumos.
+          li
+            i.fas.fa-paper-plane 
+            | Identifique las relaciones positivas de la población local con el ambiente.
+          li
+            i.fas.fa-paper-plane 
+            | Vista profesionalmente.
+          li
+            i.fas.fa-paper-plane 
+            | Defina responsabilidades específicas.
+          li
+            i.fas.fa-paper-plane 
+            | En el desarrollo de los programas y otros vincule intérpretes.
+          li
+            i.fas.fa-paper-plane 
+            | Prohíba explícitamente el ESCNNA Explotación Sexual Comercial de Niñas, y Adolescentes (Ministerio de Comercio & Colombia Productiva, 2021).   Mayor información Cartilla anexo 1 y en el material complementario.
 
 </template>
 
