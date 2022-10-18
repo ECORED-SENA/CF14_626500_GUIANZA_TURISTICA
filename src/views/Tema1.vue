@@ -85,20 +85,34 @@
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='')
     p.mb-4 El servicio al cliente es una gran responsabilidad, por eso los servidores evitan tener como respuesta el famoso “NO”, se debe prestar atención a los siguientes comentarios vitales para los guías:
-
-    .row.mb-4
-      .col-lg-4
-        .tarjeta.color-ama.p-5
-          h5 Existen alternativas al ”NO”
-          p La responsabilidad de asumir el servicio al cliente es vital, no hay espacio para decir “no es mi trabajo”, los clientes tienen expectativas y el reto continuo es superarlas.
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/tema1/img1.svg', alt='')
-      .col-lg-4
-        .tarjeta.color-ama.p-5
-          h5 El valor agregado se llama servicio
-          p El prestador que descubre el servicio al cliente como una ventaja competitiva, puede cobrar más por sus servicios, realiza más ventas y supera a la competencia en la participación del mercado (Pérez Rodríguez, M. D., 2012).
     
+    .row.mb-5
+      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
+          .indicador--hover(v-if="indicadorTarjetaFlip")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip1.svg')})`}")
+            .tarjeta-flip__contenido.coloroscuroverd.p-4.p-xl-4
+              h4.text-center Existen alternativas al ”NO”
+              p.text-center La responsabilidad de asumir el servicio al cliente es vital, no hay espacio para decir “no es mi trabajo”, los clientes tienen expectativas y el reto continuo es superarlas.
+
+      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip2.svg')})`}")
+            .tarjeta-flip__contenido.coloroscuroverd.p-4.p-xl-4
+              h4.text-center La mejor publicidad es el buen servicio.
+              p.text-center La publicidad puede hacer que los clientes lleguen, pero es quien presta el servicio el que se encarga de que regresen o se retiren.
+
+      .col-sm-6.col-xl-4.mb-4.mb-sm-0
+        .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip3.svg')})`}")
+            .tarjeta-flip__contenido.coloroscuroverd.p-4.p-xl-4
+              h4.text-center El valor agregado se llama servicio
+              p.text-center El prestador que descubre el servicio al cliente como una ventaja competitiva, puede cobrar más por sus servicios, realiza más ventas y supera a la competencia en la participación del mercado (Pérez Rodríguez, M. D., 2012).
+
+  
     p.mb-4 El guía en el ejercicio de prestar un servicio necesita demostrar las habilidades específicas.  Las empresas de turismo quieren que los turistas atendidos por sus guías queden satisfechos con los servicios prestados, como una estrategia de mercadeo para aumentar la base de clientes, ya que así se generan recomendaciones de los servicios a amigos o familiares. A veces, lograr esta tarea no significa llenar de información al cliente, simplemente tiene que ver con entender la motivación del turista y cumplir con sus expectativas.
 
     .row.align-items-center.mb-4 
@@ -133,17 +147,167 @@
       .col-lg-5
         figure
           img(src='@/assets/curso/tema1/img2.jpg', alt='')
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-5
       .col-lg-4
         figure
           img(src='@/assets/curso/tema1/img3.jpg', alt='')
       .col-lg-8
         p.mb-0 Por ello se recomienda que el último momento de este servicio, sea cuando el visitante ya se encuentra en su lugar de origen, para recoger la opinión sobre la calidad recibida y poder confirmar que la visita haya sido, una experiencia inolvidable; <b> <FONT COLOR="#FD6300"> es necesario demostrarle al visitante que la empresa que contrató está comprometida con él y su bienestar. </FONT> </b> La descripción realizada hace referencia a los momentos de verdad, es así como se explica que la prestación del servicio de guianza, está llena de estos momentos, ya que el visitante, está en constante y permanente contacto con el guía de turismo.  Una sucesión continua de momentos de verdad es lo que constituye el ciclo de servicio; es una visión general de los momentos de verdad, conformado por los contactos, acciones, pasos y detalles que el cliente experimenta para la obtención de un servicio de su interés. Es importante anotar que dentro de un proceso pueden coexistir varios ciclos de servicio, lo importante es tener en cuenta su plena identificación, tal y como se muestra en la figura 1 a continuación (p. 19):
     
+    .bg_grad-01
+      .row.justify-content-center.mb-0
+        .col-lg-10
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 1
+            span Tipos de herramientas para la comunicación interpretativa
+      .row.justify-content-center.mb-5
+        .col-lg-10
+          figure
+            img(src='@/assets/curso/tema1/info1.svg', alt='')
+
+    .row.align-items-center.mb-4
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/6.png', alt='')
+      .col-lg-8
+        p.mb-4 La figura 1 explica la sucesión de acontecimientos por los que pasa un turista cuando contrata un servicio con un prestador, en este caso, un guía de turismo.  Al observar y definir cada momento, se puede establecer acciones concretas del servicio.
+        p.mb-4 Por otra parte, identificar cuál es el ciclo de servicios de la empresa o las acciones del guía de turismo, permite orientar la atención hacia el cliente al integrar tareas como:
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            | Realizar una lista de situaciones (actividades) que deben hacer para ejecutar cualquier actividad.
+          li
+            i.fas.fa-paper-plane 
+            | Definir el ciclo de servicio (determine los momentos de verdad).
+          li
+            i.fas.fa-paper-plane 
+            | Analizar qué posibles fallas tiene la organización para realizar un servicio de calidad.
+          li
+            i.fas.fa-paper-plane 
+            | Presentar las posibles soluciones ante las fallas.
+          li
+            i.fas.fa-paper-plane 
+            | Definir cómo debería ser el proceso adecuado para realizar un verdadero servicio.
+          li
+            i.fas.fa-paper-plane 
+            | Concluir qué sucedió de acuerdo con la observación.
+    p.mb-4 Lo anterior, sugiere que la empresa prestadora de servicios o el guía de turismo, debe tener un método e instrumentos para atender de manera ágil y adecuada las quejas y reclamos que se presentan en la prestación de servicios (SENA, 2018b).
+    Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
       .h2 1.1. Herramientas de comunicación interpretativa
 
+    .row.align-items-center.mb-4
+      .col-lg-6
+        p.mb-4 Es usual que en las empresas se utilicen mecanismos para mejorar y fortalecer los servicios prestados y el sector del turismo no es la excepción.  Para tener una atención eficiente que conduzca a la satisfacción de las exigencias de los clientes, es conveniente establecer procedimientos claros para lograr este objetivo.  Por lo general, este proceso empieza con la recepción de la solicitud, bien sea una felicitación, petición, queja, reclamo o sugerencia, la cual al ser identificada se remite a la dependencia encargada para dar eficaz y oportuna respuesta, en los tiempos preestablecidos por la organización. A partir de esta respuesta, se generan una serie de acciones que permitan dar solución o responder parcial o totalmente a la solicitud recibida y se establecen unas estrategias para lograr la mejora en el servicio.
+        .cajon.color-secundario(style='background-color: #B7CEAC').p-4
+          p.mb-0 Los buzones o las páginas web son la forma más común de recibir estos requerimientos, pero, en la guianza turística, muchas veces es el guía quién recepciona estas solicitudes. Este tratará de dar una solución eficaz al inconveniente cuando se trata de una queja o reclamo que suceda durante el servicio, y en estos casos es la agencia quien apoya a dar una solución eficiente y poder hacer un cierre al caso.
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/tema1/img4.jpg', alt='')
+    p.mb-4 A continuación, se puede estudiar las definiciones relacionadas con las FPQR:
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar1.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Felicitación
+              p Acción y efecto de felicitar. Manifestación de satisfacción que se experimenta con motivo de algo por lo que se está conforme. 
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar2.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Petición
+              p Es la acción de solicitar o demandar para que algo se haga o se lleve a cabo.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar3.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Queja
+              p Reclamación o manifestación de inconformidad en relación a una conducta o un servicio que se considera irregular. 
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar4.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Reclamo.
+              p Derecho que se tiene a hacer una acción de protestar por algo que se cree que no está bien hecho o con lo que no se está de acuerdo.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar5.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Sugerencia
+              p Propuesta de acción que pretende una mejora en la prestación de un servicio o la gestión de una organización.
+
+      .col-md-12.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/avatar6.svg' alt='AvatarTop')
+          .tarjeta.color-ama
+            .p-4
+              h4.text-center Solicitud
+              p Documentos físicos o virtuales en el que se busca pedir algo formalmente.
+    p.mb-4 Las reacciones del cliente al momento de presentarse un inconveniente pueden ser variadas, muchas veces generando frustración por esa sensación de insatisfacción, lo que se convierte en un problema para el guía. Para solucionar dicho problema, lo mejor es establecer un procedimiento, que no es más que el paso a paso a seguir para ejecutar una acción o actuar de una forma adecuada: 
+
+    .row.align-items-center.mb-4
+      .col-lg-6.mb-5.mb-md-0
+        LineaTiempoD.color-secundario
+          p.text-small(numero="1" titulo="Escuchar con atención ayuda mucho") Lo primero es identificar las causas que ocasionaron el malestar, esto es para entender el problema. 
+          
+          p.text-small(numero="2" titulo="Revisar la historia ayuda mucho") Hay que definir las estrategias de solución de dicho problema, se recomienda buscar semejanzas con otros problemas para ver qué solución se les da.
+          
+          p.text-small(numero="3" titulo="La solución puede ser progresiva") Comenzar por dar solución a lo fácil para resolver luego lo más difícil, proponer alternativas de soluciones y evaluar los posibles desenlaces.
+          
+          p.text-small(numero="4" titulo="Esa solución puede servir varias veces") Finalmente dar solución al problema y reportar el caso para posteriores eventos.
+      .col-lg-6
+        figure
+          img(src='@/assets/curso/tema1/img5.jpg', alt='')
+    p.mb-4 Por otra parte, es importante conocer que al momento de realizar recorridos guiados los turistas por lo general llegan con una serie de expectativas a la actividad turística, y en algunas ocasiones, lo que ellos encuentran es algo diferente o no se otorga el servicio que ha sido ofrecido, lo que genera sentimientos de frustración en el visitante, ocasionando una experiencia negativa en el recorrido.
+
+    .row.align-items-center.mb-4
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema1/7.png', alt='')
+      .col-lg-8
+        p.mb-4 Con el ánimo de no generar este tipo de sentimientos en los visitantes, se recomienda:
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            | Informar previamente al turista el itinerario de viaje a desarrollar durante el recorrido.
+          li
+            i.fas.fa-paper-plane 
+            | Evitar el uso indiscriminado de fotografías retocadas o falseadas, pues generan expectativas que no es posible cumplir después.
+          li
+            i.fas.fa-paper-plane 
+            | Socializar todas las recomendaciones antes y repetirlas durante algunos momentos en el desarrollo del recorrido. 
+          li
+            i.fas.fa-paper-plane 
+            | Desarrollar una metodología para el recorrido, para que el turista tenga la oportunidad de vivir una experiencia significativa.  
+          li
+            i.fas.fa-paper-plane 
+            | Innovar en la manera de presentación del recorrido, lo que va a permitir generar mayor interés durante la actividad.  
+          li
+            i.fas.fa-paper-plane 
+            | Generar expectativas frente al tema del recorrido, pero no a los atractivos, ya que en ocasiones no se puede acceder a los mismos.
+          li
+            i.fas.fa-paper-plane 
+            | No emplear superlativos para promocionar o al ejecutar el recorrido.
+          li
+            i.fas.fa-paper-plane 
+            | No hacer comparaciones durante el recorrido de otras experiencias vividas de la misma actividad.
+          li
+            i.fas.fa-paper-plane 
+            | Hable con la verdad durante el desarrollo del recorrido  (Servicio Nacional de Turismo, SENATUR, 2016).   
+    Separador
+    
     #t_1_2.titulo-segundo.color-acento-contenido
       .h2 1.2. Comunicación no verbal en el guionaje 
 
@@ -151,11 +315,13 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
+import Muestras from '../components/Muestras'
+import Separador from 'ecored-base-pkg/src/components/Separador.vue' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
   components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
+    Muestras,
+    Separador,
   },
   data: () => ({
     // variables de vue

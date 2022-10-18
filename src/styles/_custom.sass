@@ -57,3 +57,22 @@
   height: 100%
   align-content: center
 
+.coloroscuroverd
+  background-color: #FFE6A1
+  border-radius: 20px
+  height: 468px
+
+.bg_grad-01
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo1.jpg")
+    background-repeat: no-repeat
