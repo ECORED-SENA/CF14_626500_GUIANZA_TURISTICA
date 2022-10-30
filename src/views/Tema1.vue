@@ -690,7 +690,7 @@
           p.mb-0 <b>Emplear recursos o mecanismos diferentes a sus capacidades profesionales, ejercer su actividad fuera del ámbito de su especialidad, suministrar información errónea, poner en riesgo la integridad física, moral, económica y psicológica del turista o pasajero a cargo, subestimar enfermedades o dolencias de los turistas, coaccionar los turistas a realizar compras.</b>
     Separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_4.titulo-segundo.color-acento-contenido
       .h2 1.4. Buenas prácticas para el guía de turismo
 
     .row.mb-4

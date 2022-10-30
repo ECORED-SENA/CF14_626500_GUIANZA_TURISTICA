@@ -569,6 +569,166 @@
             p.mb-0 Llamar a las autoridades a confirmar que terminó el recorrido con o sin novedades (Gobernación de Antioquia, 2015).
     separador 
 
+    #t_2_5.titulo-segundo.color-acento-contenido
+      .h2 2.5 Técnicas para el recorrido en espacio naturaleza
+
+    p.mb-4 En este caso el servicio que se presta es dentro de un vehículo; si el servicio es de más de un día es ideal que el guía de turismo prepare música y películas para los desplazamientos. Para el caso de la música, si el grupo está compuesto por estudiantes, el guía prácticamente se limitará a colocar la música que le indiquen, mientras que si es un grupo convencional de mediana edad, la música será un tema que deberá cuidar por su gran influencia en los estados de ánimo por ello se aconseja,  en la mañana colocar música suave, después de la primera parada de la mañana una más animada, ojalá versiones cantadas (salsa, rumba, tropical), al entrar en un nueva región o ciudad pueden colocar músicas representativas de la zona. 
+
+    .row.mb-4
+      .col-lg-12
+        .bloque-texto-g.fondo2.p-3.p-sm-4.p-md-4.my-4.otrobloque2
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/9.png')})`}"
+          )
+          .bloque-texto-g__texto.py-5.px-5
+            p Respecto a las películas es conveniente que el guía disponga de su propia videoteca de viaje. Al confiar la responsabilidad a la empresa de transporte, puede que las copias estén en mal estado, que sean películas no adecuadas a la tipología de los viajeros o que inexplicablemente, a aquella película excelente le falten los últimos diez minutos. Dé prioridad a películas ligeras, principalmente comedias, adecuadas a todos los públicos, sin demasiada sangre, ni violencia o escenas de sexo que puedan incomodar a los pasajeros.
+    p.mb-4 Durante el <b> <FONT COLOR="#FD6300"> recorrido panorámico </FONT> </b> se determina que el guía de turismo tenga en cuenta:
+
+    .slyderB_bg_01.px-5.py-3.mb-5
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="01")
+              p.mb-0 Pedir la colaboración de los viajeros en sentarse lo más rápido posible por la comodidad de todos los pasajeros; al no bloquear el pasillo y para poder verificar que todos los usuarios estén abordo.
+          .col-8.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder1.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="02")
+              p.mb-0 Determine las normas de conciencia dentro del vehículo, por ejemplo, está prohibido fumar en el caso de que algún viajero no respete está obligación se puede parar el servicio.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder2.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="03")
+              p.mb-0 Ubicarse en la parte delantera del vehículo, cerca del conductor, cuando esté en marcha, siempre debe sostenerse fuertemente tratando de tener en la vista rápida todo el grupo y una buena visibilidad hacia adelante para la ubicación rápida de los atractivos antes de que pasen. Establecer un código de señales con el conductor emitidas con la mano con la que no se sujeta el micro, con el fin de adecuar la velocidad del vehículo a la dinámica de la explicación (más rápido, más lento, parar completamente, estacionar u otro).
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder3.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="04")
+              p.mb-0 Para brindar la información la principal herramienta es el micrófono, compruebe el funcionamiento antes de iniciar el servicio, manténgalo cerca a la barbilla, para evitar que cuando se mueva la cabeza a derecha o izquierda, la voz se aleje haciéndose inaudible. Para evitar la resonancia y por higiene se recomienda cubrir la cápsula del micrófono con un kleenex o pañuelo. En caso de que deba prestar el servicio sin micrófono hable pausadamente.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder4.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="05")
+              p.mb-0 Sea precavido a la hora de ceder el control del micrófono si un turista le pide la intervención asegúrese que va a hacer un uso adecuado.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder5.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="06")
+              p.mb-0 Dado que todos los pasajeros no podrán observar su lenguaje corporal sustituya expresiones somo aquí o allá por a sus izquierda o derecha. Cuando se tenga gente sentada de cara y de espaldas al mismo tiempo, lo que determina la izquierda o la derecha es el sentido de la marcha.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder6.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="07")
+              p.mb-0 En un recorrido panorámico la información debe ser nutrida en determinado tramo, no se recomienda hablar todo el tiempo. Recuerde apagar el micrófono cuando no va a dar información. En las pausas de información puede colocar música o películas que le ayuden a generar un buen ambiente.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder7.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="08")
+              p.mb-0 Antes de bajar del vehículo debe proporcionar la hora y lugar de encuentro, así como las características del lugar a visitar.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder8.png')
+
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
+            .number(data-number="09")
+              p.mb-0 Socialización de precauciones durante el recorrido: explicar con claridad cuáles son los puntos críticos del recorrido y lo que deben tener en cuenta para evitar riesgos.
+          .col-4.col-lg-8
+            figure
+              img(src='@/assets/curso/tema2/slyder9.png')
+    p.mb-4 Al <b> <FONT COLOR="#FD6300"> finalizar el viaje </FONT> </b> para el cual fue contratado el guía, este debe cerciorarse de que los usuarios del servicio se sientan satisfechos con la experiencia y tratar de que lo vuelvan a contactar si regresan, para lo cual debe esmerarse en la despedida del grupo.
+
+    .row.align-items-center.mb-4
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/tema2/fig10.svg')
+      .col-lg-8
+        p.mb-4 A la hora de despedirse del grupo, se debe agradecer por haber elegido la empresa o la ciudad, deseos de que vuelvan, haga un breve balance del grupo, de las actividades que se realizaron, la invitación a lugares que no se pudieron visitar, entre otros, siempre dejar el espacio para el planteamiento de dudas o preguntas y responderlas con el mejor ánimo.  Otras acciones de finalización del servicio son:  
+        ul.lista-ul--color
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 El guía inicia por asegurarse que, a ningún turista, se le quede objeto alguno.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Indica al grupo, la importancia de revisar objetos y documentos personales a fin de que no se les extravié.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Realiza un resumen del viaje, puntualizando aspectos que le parezcan importantes y de amplia recordación.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Da las gracias por la atención prestada, indicando que han sido un grupo muy proactivo y excelente actitud.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Realiza una evaluación de su trabajo, en la actualidad estas se manejan en formularios que se envían por correo o WhatsApp, con el propósito de recibir realimentación inmediata.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Ofrece disculpas por las fallas presentadas y no superadas en el recorrido, indicando que se tendrá como parte del plan de mejora del servicio prestado en el futuro.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Mantiene una actitud jovial, alegre y respetuosa incluso si se siente muy cansado al final del viaje.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 Procura que los usuarios se vayan con la mejor imagen de él y de la empresa que representa para que vuelvan a utilizar los servicios o los recomiende.
+          li
+            i.fas.fa-paper-plane 
+            p.mb-0 El guía realiza una bitácora de viaje, en la cual consigna su propia evaluación o autoevaluación, sobre el recorrido, identificando los puntos críticos que se deben mejorar para el siguiente viaje.
+    p.mb-4 Adicionalmente se hace una referencia del instructor con relación a este importante paso, para eso se le invita a revisar el siguiente video:
+
+    figure.mb-5
+      .video
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/POlfHdAy2-Q" title="Despedida del grupo cuando finaliza un viaje" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    separador 
+
+    #t_2_6.titulo-segundo.color-acento-contenido
+      .h2 2.6 Dinámicas de grupos
+
+    p.mb-2 De acuerdo a lo expuesto en varios manuales de viajeros y guías por el mundo se recomienda enfocar las técnicas y dinámicas de los grupos guiados en estos objetivos:
+
+    .row.mb-4
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.color-amaril
+            .p-4
+              p.mb-4.text-center Permitir al facilitador presentarse como un integrante más del grupo.
+
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.color-amaril
+            .p-4
+              p.mb-4.text-center Permitirles a los miembros del grupo conocerse (aun cuando no se reúnan por primera vez) desde diferentes y nuevas perspectivas.
+
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar1
+          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.color-amaril
+            .p-4
+              p.mb-4.text-center Dinamizar los grupos.
+    p.mb-4 Las técnicas en la dinámica de grupos son en todos los casos muy afines y facilita llevar un grupo de personas, tarea en ocasiones complicada debido a su heterogeneidad a que se integren y disfruten de la interacción. 
+    p.mb-4 Los intereses de cada turista son diferentes; por lo tanto, en la función de líderes/guías se considera este aspecto y recordar que gustar a todo el mundo es prácticamente imposible, por tanto, el guía debe liderar al grupo de manera conveniente para los intereses de este, por encima de las críticas o juicios de valor que puedan formular algunos de sus miembros. 
+
 
 
 

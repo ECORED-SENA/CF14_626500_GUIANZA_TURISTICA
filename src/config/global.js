@@ -70,6 +70,13 @@ export default {
         titulo: 'Comunicación verbal',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Comunicación verbal',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
