@@ -89,7 +89,7 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-0 Normatividad Internacional
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/normatividadInternacional.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         p.mb-4 En el marco nacional es el siguiente y se trabaja desde 1991 con la Constitución Política de Colombia: 
@@ -101,9 +101,9 @@
             .col-lg-9
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-0 Normatividad Internacional
+                  h4.mb-0 Normatividad Nacional
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/normatividadnacional.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-lg-6 
@@ -186,7 +186,7 @@
                   figure
                     img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
                 .col.lg-11
-                  h4.mb-0 Aquellas personas que se movilizan autónomamente con elementos podotáctiles, aplicaciones tecnológicas o animales guías
+                  h4.mb-0 Personas con discapacidad auditiva
               .row 
                 .col-lg-12
                   ul.lista-ul--color.mb-0
@@ -219,7 +219,7 @@
                   figure
                     img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
                 .col.lg-11
-                  h4.mb-0 Personas con sordoceguera.
+                  h4.mb-0 Personas con sordoceguera
               .row 
                 .col-lg-12
                   ul.lista-ul--color.mb-0
@@ -279,7 +279,7 @@
                   figure
                     img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
                 .col.lg-11
-                  h4.mb-0 Personas con discapacidad mental o psicosocial.
+                  h4.mb-0 Personas con discapacidad mental o psicosocial
               .row 
                 .col-lg-12
                   ul.lista-ul--color.mb-0
@@ -331,6 +331,7 @@
                     li
                       i.fas.fa-paper-plane 
                       p.mb-0 Estas personas en algunos casos presentan disminución en su nivel funcional comunicativo y de aprendizaje. 
+            .col-lg-4  
               figure
                 img(src='@/assets/curso/tema3/12.jpg', alt='Texto que describa la imagen') 
           .row.justify-content-center
@@ -416,7 +417,7 @@
                   figure
                     img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
                 .col.lg-11
-                  h4.mb-0 Personas de talla gruesa.
+                  h4.mb-0 Personas de talla gruesa
               .row 
                 .col-lg-12
                   ul.lista-ul--color.mb-0
@@ -602,7 +603,7 @@
                   figure
                     img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
                 .col.lg-11
-                  h4.mb-0 Personas con diversidad lingüística y cultural.
+                  h4.mb-0 Personas con diversidad lingüística y cultural
               .row 
                 .col-lg-12
                   ul.lista-ul--color.mb-0

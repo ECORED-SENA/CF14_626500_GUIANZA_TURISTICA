@@ -48,43 +48,43 @@
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/1.png' alt='AvatarTop')
         p.mb-5 Asesora a los usuarios sobre procedimientos financieros y cambio de moneda extranjera.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/2.png' alt='AvatarTop')
         p.mb-5 Asesora a los usuarios en caso de robo o pérdida de documentos, de acuerdo con la ley.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/3.png' alt='AvatarTop')
         p.mb-5 Asiste al usuario como primer respondiente en caso de que la situación lo amerite en situaciones relacionadas con la salud.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/4.png' alt='AvatarTop')
         p.mb-5 Utiliza el plan de contingencia o propone posibles soluciones a la situación presentada.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/5.png' alt='AvatarTop')
         p.mb-5 Facilita soluciones a las restricciones alimentarias del usuario.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/6.png' alt='AvatarTop')
         p.mb-5 Asesora a los usuarios para que realice las compras de su interés.
 
       .tarjeta.colorama.p-4
-        .row.justify-content-center.mb-2
+        .row.justify-content-center.mb-4
           .col-11
             img(src='@/assets/curso/tema2/7.png' alt='AvatarTop')
         p.mb-5 Evalúa la contingencia de acuerdo con la situación presentada.
@@ -224,7 +224,7 @@
     .row.mb-4
       .col-lg-4
         .sub.p-2
-          h4.mb-0.text-center Responsabilidad de los pasajeros:  
+          h4.mb-0.text-center Responsabilidad de los pasajeros
 
     .row.align-items-center.mb-4
       .col-lg-8
@@ -499,7 +499,7 @@
     p.mb-4 La dificultad de una caminata se mide por tiempo y por niveles adicionales como se verá a continuación: 
 
     .row.align-items-center.mb-4 
-      .col-lg-8
+      .col-lg-9
         TabsA.color-acento-contenido.mb-5        
           .tarjeta.clr-paleYellow.p-4(titulo="Duración de 3 a 5 horas")
             h4.mb-4 Duración de 3 a 5 horas
@@ -522,7 +522,7 @@
             h4.mb-4 Duración 9 a 12 horas
             p.mb-4 Longitud entre 18 km y 25 km. Terrenos agrestes con accidentes geográficos de ascensos y descensos pronunciados que exigen al caminante sortear diversos obstáculos naturales.
             p.mb-0 La temperatura oscila entre los 7 y 40 grados centígrados. Apta únicamente para personas con muy buen estado físico, de espíritu aventurero, que tienen alta experiencia en senderismo.
-      .col-lg-4
+      .col-lg-3
         figure
           img(src='@/assets/curso/tema2/fig9.svg', alt='')
 
@@ -570,7 +570,7 @@
     separador 
 
     #t_2_5.titulo-segundo.color-acento-contenido
-      .h2 2.5 Técnicas para el recorrido en espacio naturaleza
+      .h2 2.5 Técnica para recorrido panorámico
 
     p.mb-4 En este caso el servicio que se presta es dentro de un vehículo; si el servicio es de más de un día es ideal que el guía de turismo prepare música y películas para los desplazamientos. Para el caso de la música, si el grupo está compuesto por estudiantes, el guía prácticamente se limitará a colocar la música que le indiquen, mientras que si es un grupo convencional de mediana edad, la música será un tema que deberá cuidar por su gran influencia en los estados de ánimo por ello se aconseja,  en la mañana colocar música suave, después de la primera parada de la mañana una más animada, ojalá versiones cantadas (salsa, rumba, tropical), al entrar en un nueva región o ciudad pueden colocar músicas representativas de la zona. 
 
@@ -703,26 +703,26 @@
     #t_2_6.titulo-segundo.color-acento-contenido
       .h2 2.6 Dinámicas de grupos
 
-    p.mb-2 De acuerdo a lo expuesto en varios manuales de viajeros y guías por el mundo se recomienda enfocar las técnicas y dinámicas de los grupos guiados en estos objetivos:
+    p.mb-4 De acuerdo a lo expuesto en varios manuales de viajeros y guías por el mundo se recomienda enfocar las técnicas y dinámicas de los grupos guiados en estos objetivos:
 
     .row.mb-4
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar1
-          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/icon1.svg' alt='AvatarTop')
           .tarjeta.color-amaril
             .p-4
               p.mb-4.text-center Permitir al facilitador presentarse como un integrante más del grupo.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar1
-          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/icon2.svg' alt='AvatarTop')
           .tarjeta.color-amaril
             .p-4
               p.mb-4.text-center Permitirles a los miembros del grupo conocerse (aun cuando no se reúnan por primera vez) desde diferentes y nuevas perspectivas.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar1
-          img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/icon3.svg' alt='AvatarTop')
           .tarjeta.color-amaril
             .p-4
               p.mb-4.text-center Dinamizar los grupos.

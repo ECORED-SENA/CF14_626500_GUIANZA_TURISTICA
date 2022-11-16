@@ -33,7 +33,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Implementación de la experiencia',
+        titulo: 'Servicio al cliente en el guionaje',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -67,15 +67,67 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Comunicación verbal',
+        titulo: 'Manejo de grupos guiados en escenarios culturales y naturales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Tipología de grupos',
+            hash: '#t_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Técnicas para atención de grupos guiados',
+            hash: '#t_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Técnicas para recorrido peatonal',
+            hash: '#t_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Técnicas para el recorrido en espacio naturaleza',
+            hash: '#t_2_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo: 'Técnica para recorrido panorámico',
+            hash: '#t_2_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.6',
+            titulo: 'Dinámicas de grupos',
+            hash: '#t_2_6',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Comunicación verbal',
+        titulo: 'Turismo accesible',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Beneficiarios y técnicas específicas de guianza',
+            hash: '#t_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Condiciones en la infraestructura y los servicios',
+            hash: '#t_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -120,132 +172,186 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Asociación Colombiana para el Desarrollo de Personas con Discapacidad. (s.f.). Decálogo para relacionarse con personas en condición de discapacidad. ASCOPAR.',
+    },
+    {
+      referencia:
+        'Fernández, J (2015) Introducción al protocolo Turístico Hotelero. Revista Estudios Institucionales, VOL. II, No 3,  pp. 201-206.',
+    },
+    {
+      referencia:
+        'Fuentes C., F. (2015). Accesibilidad en los servicios turísticos de hoteles y agencias de viaje de la ciudad de la Paz [Tesis de pregrado]. Repositorio Institucional UMSA. ',
+      link: 'http://repositorio.umsa.bo/xmlui/handle/123456789/13785',
+    },
+    {
+      referencia:
+        'FIR Consultoría & Servicio Andaluz de Empleo. (2018). Materiales Didácticos—Curso Guía de Ruta.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.juntadeandalucia.es/empleo/recursos/material_didactico/especialidades/materialdidactico_guia_de_ruta/GR/presen.htm',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Gobierno de provincia de Salta, Ministerio de Cultura y Turismo. (2006). Técnicas de guiado. Material orientativo y de consulta para el examen de guías idóneos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://fhcevirtual.umsa.bo/btecavirtual/?q=T%C3%A9cnicasdeGuiadoMaterialorientativoydeconsultaparaelex%C3%A1mendegu%C3%ADasid%C3%B3neos',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Instituto Distrital de Turismo & Alcaldía Local de Teusaquillo. (2014). Cartilla de buenas prácticas de sostenibilidad para empresarios turísticos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.colombiaproductiva.com/CMSPages/GetFile.aspx?guid=f01cde94-55d0-4d6d-b397-1cdc4d682696',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ministerio de Comercio, Industria y Turismo (MINCIT). (2019). Manual de turismo accesible "Turismo para Todos" (primera ed.). MINCIT.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'http://acolap.org.co/wp-content/uploads/2019/07/MANUAL-TURISMO-PARA-TODOS.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Ministerio de Comercio & Colombia Productiva. (2021). Guía de buenas prácticas en sostenibilidad. Prestadores de servicios en turismo de naturaleza. Organización para la educación y protección ambiental OPEPA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.colombiaproductiva.com/ptp-capacita/publicaciones/sectoriales/publicaciones-turismo-de-naturaleza/guia-de-buenas-practicas-guias-turisticos',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Ministerio de Salud y Protección Social. (2017). Sala situacional de las Personas con Discapacidad (PCD). MINSALUD.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/PES/presentacion-sala-situacional-discapacidad-2017.pdf',
+    },
+    {
+      referencia:
+        'Pérez Rodríguez, M. D. (2012). Calidad de servicio y Atención al Cliente (2a. ed.). Editorial ICB, 2012. p.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/113201',
+    },
+    {
+      referencia: 'Puedo Viajar. (2021). Accessible tourism website',
+      link: 'https://www.puedoviajar.es/',
+    },
+    {
+      referencia:
+        'Restrepo, C., Restrepo, L. y Estrada, S. (2006). Enfoque estratégico del servicio al cliente.',
+      link: 'http://revistas.utp.edu.co/',
+    },
+    {
+      referencia:
+        'Servicio Nacional de aprendizaje SENA. (2018a). Manejo de grupos. Material de estudio programa Tecnología en Guianza Turística.',
+    },
+    {
+      referencia:
+        'Servicio Nacional de aprendizaje SENA (2018b) Caracterización del usuario y servicio al cliente. Material estudio programa Tecnología en Guianza Turística.',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Turismo SENATUR. (2016). Manual de Diseño Experiencias Turísticas.',
+      link:
+        'https://www.sernatur.cl/wp-content/uploads/2018/11/MDD-Manual-de-Experiencias-Turi%CC%81sticas-1.pdf',
+    },
+    {
+      referencia:
+        'Sociedad Insular para la promoción de las personas con discapacidad. (2021). Tenerife, destino accesible.',
+      link: 'https://guianatura.net/tenerife-destino-accesible/',
+    },
+    {
+      referencia:
+        'Universidad Nacional de Colombia, Instituto Distrital de Turismo, Alcaldía Local de Teusaquillo (2011). Protocolos de servicio para el turismo accesible de turistas y visitantes Jóvenes, Adultos Mayores y Personas en Situación de Discapacidad. ',
+      link:
+        'https://www.researchgate.net/publication/273319491_Protocolos_de_servicio_para_el_turismo_accesible_de_turistas_y_visitantes_Jovenes_Adultos_Mayores_y_Personas_en_Situacion_de_Discapacidad',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Accesible',
+      significado: 'Entrada, paso.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Celiaco',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Que padece una enfermedad celíaca es decir que tiene una intolerancia al gluten, por lo tanto, no puede consumir alimentos que contengan harina de trigo, cebada o avena.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'Itinerario',
+      significado: 'Camino, ruta, descripción de lugares en un recorrido.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Modulación de la voz',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Hace referencia al cambio en el volumen, tono, ritmo o pronunciación y velocidad en el sonido de la voz.',
     },
     {
-      termino: 'Moda',
+      termino: 'Perfil altimétrico',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Se refiere a una representación de la altura de los diferentes desniveles del terreno, tomando como referencia un valor de base.',
     },
     {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'PST',
+      significado: 'Prestador de Servicio Turístico.',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Superlativo',
+      significado: 'Muy grande, desmesurado.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Técnica',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Conjunto de procedimientos y recursos de que se sirve una ciencia o un arte.',
     },
     {
-      termino: 'Bidimensional',
+      termino: '<em>Váuchers</em>',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Vale que da derecho a quien lo posee a adquirir determinados artículos o a disfrutar de un servicio.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Vegano',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Persona que practica el veganismo, una actitud a rechazar alimentos de origen animal. En su dieta no está la carne, los huevos, la miel, también rechazan las actividades relacionadas con la producción del cuero o la seda.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Vegetariano',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Practica el vegetarianismo, un régimen alimenticio basado principalmente en el consumo de productos vegetales y admite productos de origen animal como los huevos y la leche, no admiten la carne.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Protocolos para el servicio guiado',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Organización Mundial del Turismo (2020), Convención marco sobre ética del turismo. OMT.',
+      tipo: 'Documento',
+      link: 'https://www.e-unwto.org/doi/pdf/10.18111/9789284421695',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Buenas prácticas para el guía de turismo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ministerio de Comercio Industria y Turismo. (2014). Guía de buenas prácticas para prestadores de servicios en turismo de naturaleza.',
+      tipo: 'Libro',
+      link:
+        'https://www.colombiaproductiva.com/CMSPages/GetFile.aspx?guid=f01cde94-55d0-4d6d-b397-1cdc4d682696',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Técnicas para el recorrido en espacio naturaleza',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Gobernación de Antioquia (2015). Protocolos de autocuidado y caminería segura en Antioquia.',
+      tipo: 'Documento',
+      link:
+        'https://www.academia.edu/42914672/Protocolos_de_autocuidado_y_caminer%C3%ADa_segura_en_Antioquia',
+    },
+    {
+      tema: 'Técnicas para el recorrido en espacio naturaleza',
+      referencia:
+        'Fundación para la Conservación y el Desarrollo Sostenible (2020). Manual de operación turística para el avistamiento de aves.',
+      tipo: 'Libro',
+      link:
+        'https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
+    },
+    {
+      tema: 'Técnicas para el recorrido en espacio naturaleza',
+      referencia:
+        'Ministerio de Comercio industria y turismo. (2017). Guía de buenas prácticas para la actividad de aviturismo en Colombia.',
+      tipo: 'Libro',
+      link:
+        'https://www.mincit.gov.co/CMSPages/GetFile.aspx?guid=2aaff59c-e5b5-45c7-b0e7-e78304e362f5',
     },
   ],
   creditos: {

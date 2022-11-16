@@ -86,8 +86,8 @@
                   img(src='@/assets/curso/tema1/5.png', alt='')
     p.mb-4 El servicio al cliente es una gran responsabilidad, por eso los servidores evitan tener como respuesta el famoso “NO”, se debe prestar atención a los siguientes comentarios vitales para los guías:
     
-    .row.mb-5
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-xl-4.col-md-8.col-10.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -96,7 +96,7 @@
               h4.text-center Existen alternativas al ”NO”
               p.text-center La responsabilidad de asumir el servicio al cliente es vital, no hay espacio para decir “no es mi trabajo”, los clientes tienen expectativas y el reto continuo es superarlas.
 
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+      .col-lg-6.col-xl-4.col-md-8.col-10.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip2.svg')})`}")
@@ -104,7 +104,7 @@
               h4.text-center La mejor publicidad es el buen servicio.
               p.text-center La publicidad puede hacer que los clientes lleguen, pero es quien presta el servicio el que se encarga de que regresen o se retiren.
 
-      .col-sm-6.col-xl-4.mb-4.mb-sm-0
+      .col-lg-6.col-xl-4.col-md-8.col-10.mb-4.mb-sm-0
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip3.svg')})`}")
@@ -159,7 +159,7 @@
         .col-lg-10
           .titulo-sexto.color-acento-contenido
             h5 Figura 1
-            span Tipos de herramientas para la comunicación interpretativa
+            span Ciclo del servicio
       .row.justify-content-center.mb-5
         .col-lg-10
           figure
@@ -195,7 +195,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
-      .h2 1.1. Herramientas de comunicación interpretativa
+      .h2 1.1. Herramientas de comunicación interpretativaPautas de atención y manejo de felicitaciones, peticiones, quejas y reclamos (FPQR).
 
     .row.align-items-center.mb-4
       .col-lg-6
@@ -309,7 +309,7 @@
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      .h2 1.2. Comunicación no verbal en el guionaje 
+      .h2 1.2 Protocolos para el servicio guiado   
 
     p.mb-4 Por antecedentes históricos, las reglas y costumbres protocolarias sirven para normalizar cualquiera de las instituciones y gobiernos o las personas mismas que los constituyen. Todo el mundo sabe también que el protocolo determina la precedencia, así́ como el tratamiento y la equivalencia entre autoridades gubernamentales, diplomáticas, religiosas, militares, pero también en el sector y empresas privadas, en este caso en el sector turístico y hotelero, que es un gremio especialmente particular.
 
