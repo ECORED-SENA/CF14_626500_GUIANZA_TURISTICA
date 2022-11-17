@@ -26,7 +26,6 @@
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: #ffffff
- 
 
 /// Tema1
 
@@ -51,8 +50,9 @@
   color: #111e61
   line-height: 1.2em
 
+
 .color-ama
-  background-color: #FFE6A1
+  background-color: #FFEFC2
   border-radius: 20px
   height: 100%
   align-content: center
@@ -62,6 +62,9 @@
   border-radius: 20px
   height: 468px
 
+.cent
+  padding-top: 40% !important
+
 .bg_grad-01
   position: relative
   & > *
@@ -70,7 +73,7 @@
     content: ''
     position: absolute
     margin: 0 -3rem 
-    top: 0em
+    top: 3em
     left: 0px
     width: calc( 100% + 6rem)
     height: 100%
@@ -94,6 +97,7 @@
   background-color: #E1F3D7
   border-radius: 20px
   width: 100%
+  height: 100%
 
 .coloravatar
   background-color: #fff
@@ -106,10 +110,11 @@
 .tarjetaver
   background-color: #BCD1BF !important
   border-radius: 0px
-  width: 95%
+  height: 100%
+  width: 100%
   &:hover
     background-color: #FCE5C1 !important
-    height: 104%
+    height: 100%
     width: 100%
 
 .fondo1
@@ -123,7 +128,7 @@
   @media (max-width: 992px)
     position: relative
     width: 100%
-    height: 50%
+    height: 45%
     left: 0
     background-color: rgba(255, 255, 255, 0.95)
 
@@ -138,13 +143,37 @@
     width: 100%
     height: 70% !important
     position: absolute
-    top: -14%
+    top: 0%
     left: 0
     bottom: 0
     background-position: top
     background-size: 100% 108%
+  @media (max-width: 768px)
+    width: 103%
+    height: 60% !important
+    position: absolute
+    top: -10%
+    left: -1.5%
+    bottom: 0
+    background-position: top
+    background-size: 100% 108%
 
-.color-ver
+.bloque-texto-g__img
+  @media (max-width: 992px)
+    width: 100%
+    height: 52% !important
+    position: absolute
+    top: 0%
+    left: 0%
+    bottom: 0
+    background-position: top
+    background-size: 100% 108%
+
+.color-grisa
+  background-color: #F6F6F6 !important
+  border-radius: 20px
+
+.color-grisa.acordion__activo
   background-color: #CDDFC8 !important
   border-radius: 20px
 
@@ -169,7 +198,7 @@
   background-size: 100% 100%
   @media (max-width: 992px)
     width: 100%
-    height: 70% !important
+    height: 50% !important
     position: absolute
     top: -14%
     left: 0
@@ -195,6 +224,9 @@
   border-radius: 20px
 
 .tarjeta-azul
+  background-color: #F6F6F6 !important
+
+.tarjeta-azul.acordion__activo
   background-color: #FFE6A1 !important
 
 .crd_hover_txt--img
@@ -319,12 +351,26 @@
   bottom: 0
   background-position: center
   background-size: cover
+  @media (max-width: 992px)
+    width: 100%
+    height: 50%
+    position: absolute
+    top: 0
+    left: 0%
+    bottom: 0
+    background-position: center
+    background-size: cover
 
 .bloque-texto-gg__texto
   position: relative
   width: 65%
   right: 35% 
   background-color: rgba(255, 255, 255, 0.95)
+  @media (max-width: 992px)
+    position: relative
+    width: 100%
+    right: 0% 
+    background-color: rgba(255, 255, 255, 0.95)
 
 .slyder-a__tipo-a .slyder-a__bullets 
   position: absolute
@@ -332,3 +378,254 @@
   left: 50%
   transform: translateX(-50%)
 
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #D2DDCE
+  color: #12263f
+
+.tarjeta--gris 
+  background-color: #D2DDCE
+
+.color-grisa.acordion__activo 
+  background-color: #CDDFC8 !important
+  border-radius: 20px
+
+.desaparece
+  @media (max-width: 992px)
+    display: none
+
+.slyder-a__bullets__item--active
+  background-color: #406834!important
+  border: none
+
+.slyder-a__bullets__item 
+  background-color: #AEB9A6
+
+//fondos
+
+.colordegradado
+  background: linear-gradient(#FFD667, #EFB31A)
+
+.bg_grad-02
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 10em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo2.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-03
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 13em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo3.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-04
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo4.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-05
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo5.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-06
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 5em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo6.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-07
+  position: relative
+  .row, p, SlyderF,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo7.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-08
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo8.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-09
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo9.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-10
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% )
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo10.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-11
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo11.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-12
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo12.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-13
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: -50em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo.png")
+    background-repeat: no-repeat
+
+.bg_grad-14
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo13.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-15
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -1em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo14.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-16
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -1em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo15.jpg")
+    background-repeat: no-repeat
