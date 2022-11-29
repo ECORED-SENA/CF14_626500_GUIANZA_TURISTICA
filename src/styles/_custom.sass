@@ -139,12 +139,20 @@
   left: 51%
   background-position: top
   background-size: 100% 108%
-  @media (max-width: 992px)
-    width: 100%
-    height: 70% !important
+  @media (max-width: 1200px)
+    width: 62%
+    height: 118.5%
     position: absolute
-    top: 0%
-    left: 0
+    top: -18.5%
+    left: 39%
+    background-position: top
+    background-size: 100% 108%
+  @media (max-width: 992px)
+    width: 103%
+    height: 80% !important
+    position: absolute
+    top: -13%
+    left: -1.5%
     bottom: 0
     background-position: top
     background-size: 100% 108%
@@ -198,7 +206,7 @@
   background-size: 100% 100%
   @media (max-width: 992px)
     width: 100%
-    height: 50% !important
+    height: 75% !important
     position: absolute
     top: -14%
     left: 0
@@ -279,6 +287,15 @@
     height: 70% !important
     position: absolute
     top: -14%
+    left: 0
+    bottom: 0
+    background-position: top
+    background-size: 100% 108%
+  @media (max-width: 768px)
+    width: 100%
+    height: 35% !important
+    position: absolute
+    top: -4%
     left: 0
     bottom: 0
     background-position: top
@@ -407,7 +424,7 @@
 
 .bg_grad-02
   position: relative
-  .row, 
+  .row, p,
     position: relative
   &::before
     content: ''
@@ -629,3 +646,33 @@
     height: 100%
     background-image: url("../assets/curso/temas/fondo15.jpg")
     background-repeat: no-repeat
+
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #e6e6e6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #D2DDCE
+
+.order
+  @media (max-width: 992px)
+    order: -1
+
+.desaparece
+  @media (max-width: 992px)
+    display: none
+
+.slyder-a__tipo-b
+  position: relative
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 768px)
+    width: 30px
+    height: 30px
+
+.slyder-a__bullets__item
+  @media (max-width: 768px)
+    width: 10px
+    height: 10px

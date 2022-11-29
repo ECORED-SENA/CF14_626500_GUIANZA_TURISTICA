@@ -9,17 +9,17 @@
       h1 Turismo Accesible     
 
     .row.justify-content-center.align-items-center.mb-4 
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-4 El turismo accesible nace por la necesidad que posee el sector turístico de atender a un grupo considerable de personas que les es más difícil participar de las actividades turísticas ya sea por sus condiciones físicas o mentales, pero el ideal de este tipo de turismo es que toda persona, sin importar quien sea y en las condiciones que se encuentre, pueda realizar la actividad turística más fácilmente; teniendo como principal objetivo las poblaciones o el tipo de población más vulnerable, como lo pueden ser los jóvenes, los adultos mayores y las personas en situación de discapacidad. Se estima que en el mundo hay alrededor de mil millones de personas que tienen algún tipo de discapacidad y de acuerdo con el Ministerio de Salud  y Protección Social (2017) en Colombia es el 6.1% de la población, estas cifras son relevantes ya que esta población al igual que el resto de personas tienen deseos de viajar y disfrutar de las diferentes actividades que se desarrollan en los destinos turísticos, pero es indispensable que los atractivos turísticos y los mismos prestadores de servicios turísticos identifiquen y eliminen las barreras físicas  y las mentales para que esta población pueda acceder y disfrutar  de los servicios turísticos ofrecidos en los distintos lugares. Finalmente, vale la pena aclarar que los beneficios de la accesibilidad no se enfocan exclusivamente en las poblaciones con discapacidad, sino que están orientados a toda la población en general.
-      .col-lg-4.col-md-6.col-6
-        figure
+      .col-lg-4.col-md-6.col-6(data-aos="fade-left")
+        figure.desaparece
           img(src='@/assets/curso/tema3/1.jpg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-6(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema3/2.jpg', alt='Texto que describa la imagen')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 En el Manual de Turismo accesible <b> <FONT COLOR="#FD6300"> “Turismo para todos” </FONT> </b> publicado por el Ministerio de Industria Comercio y Turismo (MINCIT, 2019), se exponen las siguientes definiciones:
         .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4 
           p.mb-0 Turismo accesible es el conjunto integral de actividades y recorridos dentro de entornos e itinerarios que se presentan en los viajes, distintos al entorno habitual, de una o varias personas en condiciones de seguridad, confortabilidad y autonomía (p. 26).
@@ -28,27 +28,27 @@
 
     .bg_grad-13
       .row.align-items-center.mb-4
-        .col-lg-1.col-md-2.col-3
+        .col-lg-1.col-md-2.col-3(data-aos="fade-right")
           figure
             img(src='@/assets/curso/tema3/icon1.svg', alt='Texto que describa la imagen')
-        .col-lg-11.col-md-10.col-9
+        .col-lg-11.col-md-10.col-9(data-aos="fade-left")
           p.mb-0 Un importante avance ligado a la evolución de los medios electrónicos de comunicación es el diseño y publicación en Internet de guías turísticas on-line específicas sobre turismo accesible, en algunos casos por regiones geográficas, en otros por países y en numerosas ocasiones hasta por ciudades. El turista con discapacidad puede acceder a ellas desde cualquier computadora en forma gratuita, consultar instalaciones accesibles, servicios, excursiones y actividades, tarifas, efectuar reservas, etc. (Fuentes, 2015, p. 23).
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-8
+        .col-lg-8(data-aos="fade-right")
           p.mb-4 Uno de los países pioneros en turismo accesible es España, donde el gobierno y diversas organizaciones se han preocupado en desarrollar e incluir a todo tipo de personas en las actividades turísticas. Es de admirar que la mayor parte de los parques nacionales españoles y sus comunidades autónomas y ciudades, cuentan con programas, infraestructura y servicios para el turismo accesible, como asimismo guías en internet que promueven los diferentes destinos turísticos.
           p.mb-4 Un ejemplo es el Portal Internacional de Turismo Accesible para personas con movilidad reducida del SINPROMI (Sociedad Insular para la Promoción del Minusválido) de Tenerife (Islas Canarias) en el marco de su Programa <b> <FONT COLOR="#FD6300"> "Turismo y Cultura para Todos" </FONT> </b> (Sociedad Insular para la promoción de las personas con discapacidad. 2021).  En este portal se hace una caracterización de diferentes servicios y atractivos turísticos, como, por ejemplo, alojamiento, playas, instalaciones de ocio y cultura, bares, restaurantes, transportes y lugares de interés entre otros; muestra información general del lugar y a la vez le da una valoración en tres rangos: accesible, practicable e inaccesible; con esta información el turista puede identificar de manera anticipada las condiciones que presenta el lugar.
-        .col-lg-4.col-md-8.col-8
+        .col-lg-4.col-md-8.col-8(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema3/fig1.svg', alt='Texto que describa la imagen')
 
-      p.mb-4 Otra página de ejemplo es <b> <FONT COLOR="#FD6300"> ‘Puedo Viajar’, </FONT> </b> que nace en torno al turismo accesible para personas con discapacidad, se trata de un proyecto en internet que identifica los diferentes destinos turísticos accesibles en España, sugiere rutas y establecimientos, además de tener la opción de planificar el viaje; también cuenta con algunas guías descargables de turismo accesible en las principales ciudades europeas, como por ejemplo Londres, París, Ibiza, Berlín, Venecia.  
+      p.mb-4(data-aos="fade-right") Otra página de ejemplo es <b> <FONT COLOR="#FD6300"> ‘Puedo Viajar’, </FONT> </b> que nace en torno al turismo accesible para personas con discapacidad, se trata de un proyecto en internet que identifica los diferentes destinos turísticos accesibles en España, sugiere rutas y establecimientos, además de tener la opción de planificar el viaje; también cuenta con algunas guías descargables de turismo accesible en las principales ciudades europeas, como por ejemplo Londres, París, Ibiza, Berlín, Venecia.  
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-8.col-8
+        .col-lg-4.col-md-8.col-8(data-aos="fade-right")
           figure.mb-4
             img(src='@/assets/curso/tema3/3.jpg', alt='Texto que describa la imagen')
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           p.mb-4 En cuanto a la Unión Europea es indispensable destacar el fundamental rol desempeñado por esta a través de la Comisión Europea, ya que han formulado políticas en el sector de servicios turísticos enfocadas en la promoción, afianzamiento y evolución del turismo accesible. Al respecto, ha desarrollado y publicado -entre otros- los siguientes documentos:
           .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4
             ul.lista-ul--color.mb-0
@@ -63,29 +63,29 @@
                 p.mb-0 Criterios uniformes para la accesibilidad de lugares turísticos e infraestructura para personas discapacitadas.
       
       .row.align-items-center.mb-4
-        .col-lg-6
+        .col-lg-6(data-aos="fade-right")
           p.mb-4 Además, la Comisión Europea ha desarrollado proyectos específicos tales como "Tourism for All" (Turismo para Todos) con la intervención de numerosos países de la comunidad (en este caso: Austria, Alemania, Italia, Luxemburgo, Noruega, Suecia, Suiza, Holanda y España).  Existen publicadas en Internet guías de accesibilidad para la casi totalidad de los países europeos, sus regiones y ciudades. Se destacan los casos de: Austria, Bélgica, Dinamarca, Finlandia, Francia, Alemania, Grecia, Islandia, Irlanda, Italia, Liechtenstein, Luxemburgo, Holanda, Noruega, Portugal, Suecia, Reino Unido.  También se destaca en Italia la página web del proyecto, “Turismo per tutti”, una iniciativa de la Dirección General de Turismo del Ministerio de Actividades Productivas italiano para promover y difundir el turismo accesible.   
-        .col-lg-6
+        .col-lg-6(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema3/4.jpg', alt='Texto que describa la imagen')
-      p.mb-4 En Estados Unidos también se destacan algunas iniciativas que se han dado debido a que este país tiene unas cifras elevadas en cuanto a personas con discapacidad a nivel mundial. La mayoría de sus estados, cuentan con guías de accesibilidad. En 1988 se realizó la Guía de Viajes para Personas con Discapacidades del estado de Virginia y es relevante porque fue una de las primeras publicaciones que mostraba la oferta de turismo accesible del lugar. La USAID (Agencia para el Desarrollo Internacional) lanzó una aplicación de turismo accesible en el caribe para móviles llamada RD4ALL, tiene como finalidad la promoción del turismo accesible en Centroamérica, especialmente República Dominicana.
+      p.mb-4(data-aos="fade-right") En Estados Unidos también se destacan algunas iniciativas que se han dado debido a que este país tiene unas cifras elevadas en cuanto a personas con discapacidad a nivel mundial. La mayoría de sus estados, cuentan con guías de accesibilidad. En 1988 se realizó la Guía de Viajes para Personas con Discapacidades del estado de Virginia y es relevante porque fue una de las primeras publicaciones que mostraba la oferta de turismo accesible del lugar. La USAID (Agencia para el Desarrollo Internacional) lanzó una aplicación de turismo accesible en el caribe para móviles llamada RD4ALL, tiene como finalidad la promoción del turismo accesible en Centroamérica, especialmente República Dominicana.
 
       .row.align-items-center.mb-4
-        .col-lg-6
+        .col-lg-6(data-aos="fade-right")
           figure.mb-4
             img(src='@/assets/curso/tema3/5.jpg', alt='Texto que describa la imagen')
-        .col-lg-6
+        .col-lg-6(data-aos="fade-left")
           p.mb-0 En referencia a Sudamérica hay países que por su tradición turística le han apostado al turismo accesible estos son los casos de Argentina, Brasil, Chile y Perú. Puntualmente Perú se destacó en el año 2000 cuando lanzaron un manual de turismo accesible para los prestadores de servicios turísticos, este manual se llama “Manual para la Atención del Turista con Discapacidad” de Promperú, y se ha convertido en un valioso aporte para la realización de turismo accesible en Suramérica.  En Centroamérica, México y Costa Rica, al tener un desarrollo turístico grande, también han mostrado interés por esta parte del turismo y han creado normas y documentos constituyéndose en modelos para la región; por ejemplo, existe la Red Costarricense de Turismo Accesible, que es una asociación sin ánimo de lucro que busca capacitar en referencia a este tema a los prestadores de servicios turísticos del país.
           
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-6
+        .col-lg-6(data-aos="fade-right")
           p.mb-4 Estos son los antecedentes normativos con relación al marco internacional para tener en cuenta (MINCIT, 2019):
           .tarjeta.color-primario.p-3.mb-5
             .row.justify-content-around.align-items-center
-              .col-lg-3.col-md-3.col-2
+              .col-lg-3.col-md-3.col-4
                 .col-10
                   img(src="@/assets/curso/tema3/icon2.svg")
-              .col-lg-9.col-md-9.col-10
+              .col-lg-9.col-md-9.col-8
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-0 Normatividad Internacional
@@ -96,10 +96,10 @@
           p.mb-4 En el marco nacional es el siguiente y se trabaja desde 1991 con la Constitución Política de Colombia: 
           .tarjeta.color-primario.p-3.mb-5
             .row.justify-content-around.align-items-center
-              .col-lg-3.col-md-3.col-2
+              .col-lg-3.col-md-3.col-4
                 .col-10
                   img(src="@/assets/curso/tema3/icon2.svg")
-              .col-lg-9.col-md-9.col-10
+              .col-lg-9.col-md-9.col-8
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-0 Normatividad Nacional
@@ -107,29 +107,29 @@
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/normatividadnacional.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
-        .col-lg-6.col-md-8.col-8
+        .col-lg-6.col-md-8.col-8(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema3/fig2.svg', alt='Texto que describa la imagen')    
       separador 
 
-      #t_3_1.titulo-segundo.color-acento-contenido
+      #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade")
         .h2 3.1 Beneficiarios y técnicas específicas de guianza
 
     .bg_grad-15
-      p.mb-4 A continuación, se identifican los beneficiarios según sus discapacidades y características, también se describen algunas de las características específicas que tienen los beneficiarios del turismo accesible según el Ministerio de Comercio, Industria y Turismo (2019):
+      p.mb-4(data-aos="fade-right") A continuación, se identifican los beneficiarios según sus discapacidades y características, también se describen algunas de las características específicas que tienen los beneficiarios del turismo accesible según el Ministerio de Comercio, Industria y Turismo (2019):
 
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="fade-up")
         .col-lg-12
           .tarjeta.colorblanca.p-4
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad física
                 .row.mb-2
                   .col-lg-12
@@ -156,12 +156,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad visual
                 .row.mb-2
                   .col-lg-12
@@ -188,12 +188,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad auditiva
                 .row.mb-2
                   .col-lg-12
@@ -223,12 +223,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con sordoceguera
                 .row.mb-2
                   .col-lg-12
@@ -255,12 +255,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad cognitiva o intelectual
                 .row.mb-2
                   .col-lg-12
@@ -287,12 +287,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad mental o psicosocial
                 .row.mb-2
                   .col-lg-12
@@ -319,12 +319,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con discapacidad múltiple
                 .row.mb-2
                   .col-lg-12
@@ -357,12 +357,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas de talla baja
                 .row.mb-2
                   .col-lg-12
@@ -395,12 +395,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas de talla alta
                 .row.mb-2
                   .col-lg-12
@@ -433,12 +433,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas de talla gruesa
                 .row.mb-2
                   .col-lg-12
@@ -471,12 +471,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas en situación de enfermedad
                 .row.mb-2
                   .col-lg-12
@@ -500,12 +500,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Adulto mayor
                 .row.mb-2
                   .col-lg-12
@@ -535,12 +535,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Niños, niñas y jóvenes
                 .row.mb-2
                   .col-lg-12
@@ -570,12 +570,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Mujeres en embarazo
                 .row.mb-2
                   .col-lg-12
@@ -602,12 +602,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas ambulantes con carga
                 .row.mb-2
                   .col-lg-12
@@ -631,12 +631,12 @@
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8
                 .row.align-items-center.mb-4
-                  .col-lg-1.col-md-2.col-2
+                  .col-lg-1.col-md-2.col-3
                     .row.justify-content-end 
                       .col-10
                         figure
                           img(src='@/assets/curso/tema3/brujula.svg', alt='Texto que describa la imagen')  
-                  .col.lg-11.col-md-10.col-10
+                  .col.lg-11.col-md-10.col-9
                     h4.mb-0 Personas con diversidad lingüística y cultural
                 .row.mb-2
                   .col-lg-12
@@ -658,10 +658,10 @@
                   img(src='@/assets/curso/tema3/21.jpg', alt='Texto que describa la imagen') 
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5.col-md-8.col-8
-          figure.mb-4 
+        .col-lg-5.col-md-8.col-8(data-aos="fade-right")
+          figure.mb-4.desaparece
             img(src='@/assets/curso/tema3/img1.jpg', alt='Texto que describa la imagen') 
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           p.mb-4 Antes de pensar en realizar recorridos turísticos y atender a personas en situación de discapacidad es vital tener en cuenta una serie de normas y parámetros los cuales permiten comprender la forma de ver y sentir de las personas que tienen algún tipo de discapacidad. Los siguientes son algunos de los criterios para tenerlos presentes siempre, no solo cuando se realice un recorrido turístico o una guianza, si no siempre que se tenga contacto con alguna persona en situación de discapacidad.
           ul.lista-ul--color.mb-0
             li
@@ -680,10 +680,10 @@
               i.fas.fa-paper-plane 
               p.mb-0 La persona en situación de discapacidad necesita, como todos, respeto.
 
-    p.mb-4 Reconociendo lo anterior, y siempre teniendo el firme propósito de aplicarlo en cualquier momento en el cual se tenga contacto con una persona en situación de discapacidad, es recomendable también tener presente y aplicar el siguiente decálogo de la Asociación Colombiana para el Desarrollo de Personas con Discapacidad (ASCOPAR, s.f.), que hace más fácil el poder relacionarse con este tipo de población: 
+    p.mb-4(data-aos="fade-right") Reconociendo lo anterior, y siempre teniendo el firme propósito de aplicarlo en cualquier momento en el cual se tenga contacto con una persona en situación de discapacidad, es recomendable también tener presente y aplicar el siguiente decálogo de la Asociación Colombiana para el Desarrollo de Personas con Discapacidad (ASCOPAR, s.f.), que hace más fácil el poder relacionarse con este tipo de población: 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .slyderB_bg_02.py-4.px-4.mb-4
           SlyderA
             .row.align-items-center.justify-content-center.p-4
@@ -739,15 +739,15 @@
                   img(src='@/assets/curso/tema3/vec1.svg', alt='Texto que describa la imagen')
               .col-lg-11.col-md-10.col-10
                 p.mb-2 Ante la duda de cómo tratar las discapacidades y las necesidades de una persona con discapacidad, contactaré a instituciones especializadas para recibir la información correcta.          
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure.desaparece
           img(src='@/assets/curso/tema3/img2.jpg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-8.col-8
+      .col-lg-4.col-md-8.col-8(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema3/vec2.svg', alt='Texto que describa la imagen')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 Teniendo en cuenta el protocolo de servicio para el turismo accesible de turistas y visitantes jóvenes, adultos mayores y personas en situación de discapacidad (2011) respecto a la atención de ellas, a continuación, se relacionan algunos parámetros para la atención de turistas que presentan diferentes condiciones de discapacidad. Inicialmente se dan unas recomendaciones que el guía de turismo debe considerar antes y durante la realización de un recorrido guiado y finalmente, se abordan las recomendaciones específicas para cada una de las siguientes discapacidades: 
         ul.lista-ul--color.mb-0
           li
@@ -766,22 +766,22 @@
             i.fas.fa-paper-plane 
             p.mb-0 Personas en situación de discapacidad cognitiva/intelectual.
 
-    p.mb-4 Para realizar recorridos guiados a turistas en situación de discapacidad, es indispensable saber previamente al recorrido el tipo de discapacidad que presenta el turista y así mismo se pueden utilizar las técnicas más adecuadas, pero en la mayoría de las discapacidades hay técnicas de guionaje que pueden servir para todo tipo de discapacidad, algunas de estas pueden ser las que se nombran a continuación.
+    p.mb-4(data-aos="fade-right") Para realizar recorridos guiados a turistas en situación de discapacidad, es indispensable saber previamente al recorrido el tipo de discapacidad que presenta el turista y así mismo se pueden utilizar las técnicas más adecuadas, pero en la mayoría de las discapacidades hay técnicas de guionaje que pueden servir para todo tipo de discapacidad, algunas de estas pueden ser las que se nombran a continuación.
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-up")
       .bloque-texto-gg__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img3.jpg')})`}"
       )
       .bloque-texto-gg__texto.p-5
         p.mb-0 El guía de turismo debe tener la capacidad de observar y escuchar al turista en situación de discapacidad y darle la posibilidad a la persona de solicitar asistencia o ayuda en caso de que lo requiera. Es importante que el guía de turismo le pregunte al turista o la familia, si requiere ayuda en el caso que el turista requiera de ayuda, se debe colaborar totalmente con lo solicitado por el turista.
 
-    p.mb-4 En los casos en que se realice la prestación del servicio de guionaje a núcleos familiares en donde exista alguna persona en situación de discapacidad, se debe alentar a que participe activamente sin hacer que dicha participación sea obligatoria.  Es necesario dejar que la persona en situación de discapacidad, según el caso, sea independiente y dejar que ella haga las cosas por sí sola, además de ello se recomiendan los siguientes tips para atender esta realidad:
+    p.mb-4(data-aos="fade-right") En los casos en que se realice la prestación del servicio de guionaje a núcleos familiares en donde exista alguna persona en situación de discapacidad, se debe alentar a que participe activamente sin hacer que dicha participación sea obligatoria.  Es necesario dejar que la persona en situación de discapacidad, según el caso, sea independiente y dejar que ella haga las cosas por sí sola, además de ello se recomiendan los siguientes tips para atender esta realidad:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5.col-md-6.col-6
+      .col-lg-5.col-md-6.col-6(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema3/img4.jpg', alt='Texto que describa la imagen')
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         AcordionA.mb-2(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
           .row(titulo="En el recorrido")
             p.mb-0 Cuando se esté desarrollando un recorrido guiado, es fundamental que el guía le hable directamente a la persona en situación de discapacidad y no a su acompañante, ya que es un error común el explicarle al acompañante algunos sucesos o darle información puntual para este la retransmita a la persona que presenta una discapacidad. Se debe comprender que no todas las personas que presentan alguna discapacidad son iguales, cada una de ella presenta capacidades y desarrolla destrezas diferentes.  
@@ -801,9 +801,9 @@
           .row(titulo="En el trato")
             p.mb-0 En la prestación del servicio contratado, el guía debe actuar con naturalidad, utilizar el mismo lenguaje que se utiliza con todos los clientes, se debe evitar utilizar palabras peyorativas o discriminatorias, así mismo, no es permitido utilizar diminutivos para referirse a las personas que tienen alguna discapacidad (enfermito, cieguito, sordito).  En lo posible, el lenguaje debe ser muy sencillo, no levantar la voz, a menos que los turistas se lo soliciten. 
 
-    p.mb-4 La persona con discapacidad sabe más de la discapacidad que el guía, apóyese en ello. A manera detallada se debe prestar la atención requerida a todas las personas con discapacidad, el desarrollo de la profesión de guianza en su desarrollo ayuda a identificar las atenciones más frecuentes como lo verá a continuación con relación a la movilidad reducida, discapacidad visual y discapacidad auditiva que le servirán para el momento de la verdad: 
+    p.mb-4(data-aos="fade-right") La persona con discapacidad sabe más de la discapacidad que el guía, apóyese en ello. A manera detallada se debe prestar la atención requerida a todas las personas con discapacidad, el desarrollo de la profesión de guianza en su desarrollo ayuda a identificar las atenciones más frecuentes como lo verá a continuación con relación a la movilidad reducida, discapacidad visual y discapacidad auditiva que le servirán para el momento de la verdad: 
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-up")
       .col-lg-12
         .slyderB_bg_01.px-5.py-3.mb-5
           SlyderA(tipo="b")
@@ -812,7 +812,7 @@
                 .number(data-number="01")
                   h4 Atención de personas en sillas de ruedas o con movilidad reducida
                   p.mb-0 El guía de turismo debe tener el conocimiento básico de las partes de una silla de ruedas, así como su adecuado manejo; las llantas de adelante pequeñas dan dirección mientras que las grandes dan estabilidad. En caso de requerir otros apoyos para la movilidad siempre deben estar cerca a la persona.
-              .col-8.col-lg-8
+              .col-9.col-lg-8
                 figure
                   img(src='@/assets/curso/tema3/slyder1.png')
 
@@ -821,7 +821,7 @@
                 .number(data-number="02")
                   h4 Atención de personas en situación de discapacidad auditiva
                   p.mb-0 Es recomendable tener listas diferentes estrategias de comunicación, pueden utilizarse macrotipos, dibujos, imágenes, información escrita relevante frente al servicio que se va a prestar, entre otros. En dado caso que no pueda comunicarse con la persona en situación de discapacidad, tenga listas hojas y lapicero para poder escribirle.
-              .col-4.col-lg-8
+              .col-9.col-lg-8
                 figure
                   img(src='@/assets/curso/tema3/slyder2.png')
 
@@ -830,7 +830,7 @@
                 .number(data-number="03")
                   h4 Atención a personas en situación de discapacidad visual
                   p.mb-0 Es recomendable mantenerse frente a estas personas y si el guía se va a mover de ahí debe informarle a la personas. Si la discapacidad es exigente simplemente se debe dejar que el turista tome el brazo del guía, en el momento de caminar y se le describen los obstáculos verbalmente. Ubicar los espacios que tienen lenguajes que faciliten la comunicación (braille).
-              .col-4.col-lg-8
+              .col-9.col-lg-8
                 figure
                   img(src='@/assets/curso/tema3/slyder3.png')
 
@@ -839,61 +839,61 @@
                 .number(data-number="04")
                   h4 Atención de personas con discapacidad visual y auditiva
                   p.mb-0 El mecanismo ideal de comunicación es por medio del tacto, así que generalmente se utiliza lenguaje signado en las manos; aquí es fundamental tener en cuenta que los mensajes deben ser simples y no deben transmitirse de manera rápida, estos mensajes deben ser cortos y se deben también asignar momentos de descanso.
-              .col-4.col-lg-8
+              .col-9.col-lg-8
                 figure
                   img(src='@/assets/curso/tema3/slyder4.png')
     
     .bg_grad-16
-      p.mb-4 Con relación al acompañamiento de todas estas personas se recomienda hacer el siguiente comportamiento:
-      p.mb-4 Acompañamiento a personas <b>en sillas de ruedas o con movilidad reducida.</b>
+      p.mb-4(data-aos="fade-right") Con relación al acompañamiento de todas estas personas se recomienda hacer el siguiente comportamiento:
+      p.mb-4(data-aos="fade-right") Acompañamiento a personas <b>en sillas de ruedas o con movilidad reducida.</b>
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6(data-aos="fade-right")
           figure.mb-4
             img(src='@/assets/curso/tema3/img5.jpg')
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           p.mb-4 En el momento de subir o bajar rampas, el acompañante debe ubicarse atrás de la persona en situación de discapacidad, sin importar si el turista desciende de espaldas o de frente.
           .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4 
             p.mb-0 El guía de turismo debe llevar un ritmo lento y pausado, ya que puede encontrar altibajos u otro tipo de alteraciones en el suelo que ocasiona movimientos bruscos en la silla de ruedas y esto puede ser un riesgo para la persona en situación de discapacidad.
           p.mb-0 En dado caso que se deba bajar uno o más escalones, se deben elevar las ruedas delanteras y descender sobre las ruedas traseras, esto se debe hacer escalón por escalón. El cuerpo y el peso del guía que lleve la silla de ruedas servirá de mecanismo de freno. Sin duda alguna, el realizar esta maniobra requiere de tener buen estado físico, si no se tiene la plena seguridad de poder hacer la maniobra se debe solicitar ayuda, de esta manera se minimizan los riesgos de perder el control de la silla y accidentar al turista en situación de discapacidad. Recuerde que independiente del recorrido que se desarrolle, se deben verificar las condiciones de accesibilidad, así mismo se tienen que ubicar las rampas, ascensores y demás elementos que puedan ayudar a facilitar el desplazamiento en la realización del recorrido. 
 
       .row.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p.mb-4 En la maniobra para subir un escalón o andén, se deben subir inicialmente las ruedas delanteras, enseguida se suben las ruedas traseras impulsando la silla hacia adelante.  Cuando esté subiendo o bajando escalones, las ruedas de la silla deben estar apoyadas de manera simultánea. 
           p.mb-4 Hay que recordar que las sillas de ruedas tienen algunas partes que son móviles como por ejemplo los apoya pies o los apoyabrazos, por ningún motivo trate de levantar la silla desde estas partes.  Hay que evitar realizar maniobras peligrosas y que expongan a la persona en situación de discapacidad, como por ejemplo levantar entre varias personas la silla de ruedas, esto se hace únicamente cuando sea necesario y se deberá tener el consentimiento del turista en situación de discapacidad.
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema3/img6.jpg')
 
-      .row.mb-4
-        .col-lg-6
+      .row.mb-4(data-aos="fade")
+        .col-auto
           .sub.p-2
             h4.mb-0.text-center Acompañamiento de personas en situación de discapacidad auditiva
 
       .row.align-items-center.mb-4
-        .col-lg-4
+        .col-lg-4(data-aos="fade-right")
           figure.mb-4
             img(src='@/assets/curso/tema3/fig3.svg')
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           p.mb-0 Por lo general las personas que presentan discapacidad auditiva no requieren de un acompañamiento especial, pero en situaciones de emergencia si es indispensable que se tengan los canales de comunicación idóneos para poder explicarle al turista lo que está sucediendo, es fundamental que el guía se asegure que el mensaje se ha entendido. En cuanto a la prestación del servicio de guianza turística, sí el guía no domina la lengua de señas, se debe prever el uso de un intérprete, claro está que cuando se trata de grupos familiares, dentro del mismo grupo familiar existen intérpretes que pueden ayudar para transmitir la información;  así como se mencionó anteriormente, es bueno invitar e involucrar al turista para que participe en las actividades propias del recorrido, la ayuda de material impreso, imágenes y demás elementos visuales favorecen la realización del recorrido.
 
-      .row.mb-4
-        .col-lg-6
+      .row.mb-4(data-aos="fade")
+        .col-auto
           .sub.p-2
             h4.mb-0.text-center Acompañamiento a personas en situación de discapacidad visual
         
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p.mb-4 Es bueno recordar que las personas que presentan discapacidad visual, en algunos casos utilizan diferentes elementos que le ayudan en su movilidad y desplazamiento, como por ejemplo el bastón guía, el bastón láser o un perro guía. En dado caso que el turista con discapacidad visual requiere de la ayuda del guía, se le debe preguntar si prefiere el brazo izquierdo o el derecho, ya que al igual que el resto de las personas, los turistas tendrán un lado preferido para realizar los desplazamientos, en algunos casos las personas ciegas prefieren ser guiados tomados de la mano (los niños), o se apoyan del hombro o de la muñeca. El guía deberá ir medio paso adelante para que se le facilite identificar los diferentes obstáculos que se presenten, por lo general el turista en situación de discapacidad visual podrá identificar los movimientos para así poder evitar los obstáculos a tiempo. El ritmo de caminata lo da el turista, así que el guía se debe adaptar al mismo. 
-        .col-lg-5.col-md-8.col-8
+        .col-lg-5.col-md-8.col-8(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema3/img7.jpg')
 
       .row.align-items-center.mb-4
-        .col-lg-4
+        .col-lg-4(data-aos="fade-right")
           figure.desaparece
             img(src='@/assets/curso/tema3/img8.jpg')
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           p.mb-4 Existen algunos comandos básicos que ayudarán a efectuar un recorrido con una persona en situación de discapacidad visual: 
           ul.lista-ul--color.mb-0
             li
@@ -911,56 +911,56 @@
             li
               i.fas.fa-paper-plane 
               p.mb-0 En dado caso que se vaya a abordar un vehículo, se debe acercar la mano del turista a la manija de la puerta, así el podrá dimensionar la forma de abordarlo. 
-    p.mb-4 En la prestación del servicio de guianza turística a una persona en situación de discapacidad visual se debe ser muy descriptivo, hay que recordar que el turista va a interpretar la información que se le esté brindando, es bueno identificar objetos que se puedan tocar, realizar mapas en alto o bajo relieve que el turista los pueda tocar, de esta manera ayudará a la comprensión de la información que está brindado el guía. 
+    p.mb-4(data-aos="fade-right") En la prestación del servicio de guianza turística a una persona en situación de discapacidad visual se debe ser muy descriptivo, hay que recordar que el turista va a interpretar la información que se le esté brindando, es bueno identificar objetos que se puedan tocar, realizar mapas en alto o bajo relieve que el turista los pueda tocar, de esta manera ayudará a la comprensión de la información que está brindado el guía. 
 
-    .row.mb-4
-      .col-lg-6
+    .row.mb-4(data-aos="fade")
+      .col-auto
         .sub.p-2
           h4.mb-0.text-center Atención de personas con discapacidad visual y auditiva
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-8.col-8
-        figure
+      .col-lg-4.col-md-8.col-8(data-aos="fade-right")
+        figure.mb-2
           img(src='@/assets/curso/tema3/img9.jpg')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 Existen algunos parámetros y reglas especiales que se debe tener en cuenta para la atención a turistas que presentan discapacidad visual y auditiva, a continuación, se nombraran algunas:
         .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4 
           p.mb-0 El mecanismo ideal de comunicación es por medio del tacto, así que generalmente se utiliza lenguaje signado en las manos; aquí es fundamental tener en cuenta que los mensajes deben ser simples y no deben transmitirse de manera rápida, estos mensajes deben ser cortos y se deben también asignar momentos de descanso.
         p.mb-0 Utilizando el lenguaje signado en las manos, se le debe indicar al turista en situación de discapacidad la ubicación del mobiliario y en general la descripción del espacio en el que se encuentran; al igual que se indicó en el caso de las personas ciegas, para ubicarlos en una silla o indicarles dónde está, bastará únicamente con acercarles la mano al espaldar de la misma. En dado caso de requerir entregarle objetos u otros elementos, simplemente se deben acercar a sus manos. Utilizando el lenguaje signado en las manos del turista, se le debe indicar en el momento que se llega enfrente de él y también cuando se retira el guía; al igual se debe realizar cuando se incorpora alguien al grupo o cuando este se va.
 
-    .row.mb-4
-      .col-lg-6
+    .row.mb-4(data-aos="fade")
+      .col-auto
         .sub.p-2
           h4.mb-0.text-center Acompañamiento de personas con discapacidad visual y auditiva
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         p.mb-0 Para realizar el respectivo acompañamiento generalmente se utilizan las mismas técnicas que para personas ciegas. Es fundamental que en el momento de prestar un servicio de guianza se deben contar con elementos que faciliten la comprensión de la información que se les está brindando, estos elementos pueden ser elaborados en alto y bajo relieve, con diferentes texturas; es muy probable que para el recorrido guiado la persona en situación de discapacidad sordo/ciega vaya acompañada de un familiar o intérprete, pero esto no implica que en el planteamiento del guion y la identificación de los recursos requeridos no se piensen en el diseño de ayudas y elementos que le faciliten la comprensión de la información al turista. 
-      .col-lg-5.col-md-8.col-8
+      .col-lg-5.col-md-8.col-8(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/fig4.svg')
 
-    .row.mb-4
-      .col-lg-6
+    .row.mb-4(data-aos="fade")
+      .col-auto
         .sub.p-2
           h4.mb-0.text-center Acompañamiento de persona en situación de discapacidad cognitiva/intelectual
 
     .row.align-items-center.mb-4
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema3/img10.jpg')
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         p.mb-4 En la realización de los recorridos guiados es importante recordar que se debe reconocer la presencia de la persona de situación de discapacidad en el recorrido, hay información que se le puede preguntar a él directamente, es importante referirse al turista por su nombre; estos turistas generalmente tratan de comunicarse con todos los miembros del grupo. 
         p.mb-0 Para desarrollar el recorrido turístico el guía debe utilizar diferentes estrategias en las cuales el grupo de turistas puedan participar; es indispensable utilizar un lenguaje muy claro y se puede ayudar de elementos interpretativos, tales como imágenes, sonidos, u otros objetos que ayuden para que la comprensión de la información brindada sea más sencilla.
     separador
 
-    #t_3_2.titulo-segundo.color-acento-contenido
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       .h2 3.2 Condiciones en la infraestructura y los servicios
 
-    p.mb-4 En la prestación del servicio de guianza turística para personas en situación de discapacidad, no basta únicamente con tener los conocimientos generales para atender al turista según sea su condición; también es fundamental analizar aspectos puntuales de las instalaciones donde se llevarán los turistas, es por esto el Ministerio de Comercio Industria y Turismo (2019) relaciona algunas aspectos puntuales con los que debe contar escenarios y lugares directamente ligados al turismo, a continuación se mencionan estas condiciones: 
+    p.mb-4(data-aos="fade-right") En la prestación del servicio de guianza turística para personas en situación de discapacidad, no basta únicamente con tener los conocimientos generales para atender al turista según sea su condición; también es fundamental analizar aspectos puntuales de las instalaciones donde se llevarán los turistas, es por esto el Ministerio de Comercio Industria y Turismo (2019) relaciona algunas aspectos puntuales con los que debe contar escenarios y lugares directamente ligados al turismo, a continuación se mencionan estas condiciones: 
 
     .row.align-items-center.mb-4
-      .col-lg-12
+      .col-lg-12(data-aos="fade")
         .slyderB_bg_01.px-5.py-3
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center.my-lg-4
@@ -1053,7 +1053,7 @@
                 figure
                   img(src='@/assets/curso/tema3/31.png')
 
-    p.mb-4 Finalmente, el turismo accesible no solo es importante como un nuevo nicho de mercado, el hecho que permita a personas con discapacidad de disfrutar en igualdad de condiciones los servicios y productos es una ventaja que da calidad de vida.   
+    p.mb-4(data-aos="fade-right") Finalmente, el turismo accesible no solo es importante como un nuevo nicho de mercado, el hecho que permita a personas con discapacidad de disfrutar en igualdad de condiciones los servicios y productos es una ventaja que da calidad de vida.   
 
 </template>
 

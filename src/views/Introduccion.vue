@@ -9,9 +9,9 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 Una bienvenida al guionaje de grupos que es la principal parte del trabajo como guía tal como se puede revisar en el siguiente video:
+    p.mb-5(data-aos="fade-right") Una bienvenida al guionaje de grupos que es la principal parte del trabajo como guía tal como se puede revisar en el siguiente video:
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/OkpCtbomsKo" title="Guionaje de grupos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
