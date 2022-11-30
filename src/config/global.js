@@ -41,25 +41,25 @@ export default {
             numero: '1.1',
             titulo:
               'Pautas de atención y manejo de felicitación, peticiones, quejas y reclamos',
-            hash: '#t_1_1',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Protocolos para el servicio guiado',
-            hash: '#t_1_2',
+            hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
             titulo: 'Marco de la actuación del guía en Colombia',
-            hash: '#t_1_3',
+            hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
             titulo: 'Buenas prácticas para el guía de turismo',
-            hash: '#t_1_4',
+            hash: 't_1_4',
           },
         ],
       },
@@ -74,37 +74,37 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.1',
             titulo: 'Tipología de grupos',
-            hash: '#t_2_1',
+            hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Técnicas para atención de grupos guiados',
-            hash: '#t_2_2',
+            hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
             titulo: 'Técnicas para recorrido peatonal',
-            hash: '#t_2_3',
+            hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
             titulo: 'Técnicas para el recorrido en espacio naturaleza',
-            hash: '#t_2_4',
+            hash: 't_2_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
             titulo: 'Técnica para recorrido panorámico',
-            hash: '#t_2_5',
+            hash: 't_2_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.6',
             titulo: 'Dinámicas de grupos',
-            hash: '#t_2_6',
+            hash: 't_2_6',
           },
         ],
       },
@@ -119,13 +119,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Beneficiarios y técnicas específicas de guianza',
-            hash: '#t_3_1',
+            hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
             titulo: 'Condiciones en la infraestructura y los servicios',
-            hash: '#t_3_2',
+            hash: 't_3_2',
           },
         ],
       },
@@ -198,8 +198,7 @@ export default {
     {
       referencia:
         'Instituto Distrital de Turismo & Alcaldía Local de Teusaquillo. (2014). Cartilla de buenas prácticas de sostenibilidad para empresarios turísticos.',
-      link:
-        'https://www.colombiaproductiva.com/CMSPages/GetFile.aspx?guid=f01cde94-55d0-4d6d-b397-1cdc4d682696',
+      link: 'https://es.slideshare.net/alvargoe/07-sept-cartillafinal1',
     },
     {
       referencia:
@@ -232,7 +231,7 @@ export default {
     {
       referencia:
         'Restrepo, C., Restrepo, L. y Estrada, S. (2006). Enfoque estratégico del servicio al cliente.',
-      link: 'http://revistas.utp.edu.co/',
+      link: 'https://www.redalyc.org/pdf/849/84911652051.pdf',
     },
     {
       referencia:
@@ -365,7 +364,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de Diseño Instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -373,54 +372,74 @@ export default {
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable equipo Diseño y Desarrollo',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Sofia Suarez Suarez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Carlos Mauricio Gomez Delgado',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Camila Ovalle',
+        cargo: 'Validación Contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Daniel Mutis',
+        cargo: 'Validación de Maquetación',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Actividades didácticas',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
+        cargo: 'Responsable del equipo de Gestión de Repositorio',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],

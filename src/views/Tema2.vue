@@ -40,7 +40,7 @@
           figure
             img(src='@/assets/curso/tema2/fig2.svg', alt='Texto que describa la imagen')
 
-      p.mb-4(data-aos="fade-right") Instruir al turista, viajero o pasajero en forma veraz, acerca de los lugares visitados y su entorno económico, social, cultural y ambiental.  Esta es la función más relacionada con la interpretación y la generación de experiencias Para ello deberá realizar las siguientes actividades.
+      p.mb-4(data-aos="fade-right") Instruir al turista, viajero o pasajero en forma veraz, acerca de los lugares visitados y su entorno económico, social, cultural y ambiental.  Esta es la función más relacionada con la interpretación y la generación de experiencias. Para ello deberá realizar las siguientes actividades.
 
       .row.justify-content-center.mb-4
         .col-lg-12(data-aos="fade")
@@ -99,7 +99,7 @@
 
     .row.align-items-center.mb-4
       .col-lg-5(data-aos="fade-right")
-        p.mb-4 Hablar de grupo de personas es relacionarlas con identidad, comunicación, relaciones interpersonales, cumplimiento de normas, distribución de tareas, objetivo común, e intercambio de ideas, opiniones y/o conceptos; aspectos que contribuyen a elevar la productividad de lo planeado. La sociedad actual presenta necesidades y características peculiares en las que el trabajo en grupo es cada vez s más común y necesario. Profesionales de los diferentes campos laborales encuentran sumamente útil y práctico el trabajo grupal, ya sea por razones económicas, de tiempo o simplemente porque en muchos casos sus efectos son más positivos que los del trabajo individual (Servicio Nacional de aprendizaje SENA., 2018)
+        p.mb-4 Hablar de grupo de personas es relacionarlas con identidad, comunicación, relaciones interpersonales, cumplimiento de normas, distribución de tareas, objetivo común, e intercambio de ideas, opiniones y/o conceptos; aspectos que contribuyen a elevar la productividad de lo planeado. La sociedad actual presenta necesidades y características peculiares en las que el trabajo en grupo es cada vez más común y necesario. Profesionales de los diferentes campos laborales encuentran sumamente útil y práctico el trabajo grupal, ya sea por razones económicas, de tiempo o simplemente porque en muchos casos sus efectos son más positivos que los del trabajo individual (Servicio Nacional de aprendizaje SENA., 2018)
       .col-lg-7(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img2.jpg', alt='Texto que describa la imagen')
@@ -169,12 +169,12 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       .h2 2.2 Técnicas para atención de grupos guiados 
 
-    p.mb-4(data-aos="fade-right") Con el conveniente uso de técnicas para la atención de grupos se previenen problemas de interrelación o se evita que éstos alcancen dimensiones superiores. Entre ellas están: 
+    p.mb-4(data-aos="fade-right") Con el conveniente uso de técnicas para la atención de grupos se previenen problemas de interrelación o se evita que estos alcancen dimensiones superiores. Entre ellas están: 
 
     .row.align-items-center.mb-4
       .col-lg-6.mb-4(data-aos="fade-right")
         LineaTiempoD.color-secundario
-          p.text-small(numero="1" titulo="Las explicaciones") El nivel y la calidad de las explicaciones del guía deben ser acordes al nivel del grupo, si éstas son demasiado bajas, puede sentir un rechazo generalizado del grupo. Si es necesario pida que le repitan la pregunta para pensar la respuesta y dar una respuesta adecuada. No coloque en conocimiento de los usuarios que se trata de la primera vez, porque lesiona seriamente la confianza de los clientes.
+          p.text-small(numero="1" titulo="Las explicaciones") El nivel y la calidad de las explicaciones del guía deben ser acordes al nivel del grupo, si estas son demasiado bajas, puede sentir un rechazo generalizado del grupo. Si es necesario pida que le repitan la pregunta para pensar la respuesta y dar una respuesta adecuada. No coloque en conocimiento de los usuarios que se trata de la primera vez, porque lesiona seriamente la confianza de los clientes.
             
           p.text-small(numero="2" titulo="La educación") Frente a un mal entendido o un inconveniente con el grupo, una de las reglas básicas para tratar con cualquier tipo de clientes es la educación, trate a todos los clientes con gran respeto y tacto. Si los inconvenientes se dan entre los pasajeros, busque solventarlos por todos los medios, principalmente céntrense en calmar los ánimos.
             
@@ -186,7 +186,7 @@
       .col-lg-6(data-aos="fade-left")
         figure.mb-2
           img(src='@/assets/curso/tema2/fig5.svg', alt='Texto que describa la imagen')
-    p.mb-4(data-aos="fade-right") Al guía de turismo le corresponde velar por el cumplimiento de las normas y, en caso de que éstas no existan, debe establecerlas, para facilitar la convivencia, algunas de las reglas más importantes son: 
+    p.mb-4(data-aos="fade-right") Al guía de turismo le corresponde velar por el cumplimiento de las normas y, en caso de que estas no existan, debe establecerlas, para facilitar la convivencia, algunas de las reglas más importantes son: 
 
     .row.justify-content-center.mb-4(data-aos="fade-up")
       .col-lg-4.col-md-8.col-8.mb-4
@@ -206,7 +206,7 @@
             .tarjeta-flip__contenido.colorama1.p-5.p-xl-5
               h4 Responsabilidad de los pasajeros
               p.mb-4 Estar atento a las indicaciones y preguntar en caso de inquietudes sobre punto y hora de encuentro.
-              p.mb-0 Prestar atención a sus pertenencias. Los objetos alto valor en preferible depositarlos en caja de seguridad en el alojamiento.
+              p.mb-0 Prestar atención a sus pertenencias. Los objetos de alto valor es preferible depositarlos en caja de seguridad en el alojamiento.
 
       .col-lg-4.col-md-8.col-8.mb-4
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -216,7 +216,7 @@
               h4 Los cambios
               p.mb-4 Explique ampliamente el itinerario y qué incluye el servicio antes de iniciar.
               p.mb-4 Aclare si hay o no la posibilidad de cambios. 
-              p.mb-4 Sea claro en la disponibilidad del menú yorganícelo previamente a la llegada del restaurante.
+              p.mb-4 Sea claro en la disponibilidad del menú y organícelo previamente a la llegada del restaurante.
     
     .bg_grad-11
       .row.mb-4
@@ -229,7 +229,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema2/img4.jpg', alt='Texto que describa la imagen')
         .col-lg-8(data-aos="fade-left")
-          p.mb-0 Es un aspecto fundamental que el guía muestre la incomodidad de esperar a alguien sin una causa justificada. La forma adecuada de plantear la puntualidad es basarla en el respeto a los demás. En caso de retraso de algún participante, debe estar atento a recibir a los que llegan tarde, interesándose por lo que les ha sucedido:  si han sufrido algún percance, muestre su interés por lo sucedido antes que llamarle la atención frente al grupo sin averiguar lo ocurrido.   Si no les ha sucedido nada de gravedad, de manera educada en privado, haga ver las consecuencias en el itinerario, para que sienta la necesidad de pedir una disculpa y evitar repetir la tardanza.  Si a pesar de las llamadas de atención en privado continúan llegando tarde, es conveniente buscar un motivo que obligue a ello, eximiendo al guía de responsabilidad, por ejemplo, la imposibilidad de estar esperándolos en determinados lugares por las reglas del destino o atractivo, el horario inamovible de un vuelo, entre otras.  Para dar mayor credibilidad se procede a dar el precio y hora de los transportes públicos hacia el próximo destino. Si se amenaza, hay que ser conscientes de que se debe cumplir, por tanto, sólo recurrirá a ella cuando no haya mucha dificultad en llegar al destino, por ejemplo, en los traslados dentro de la misma ciudad.
+          p.mb-0 Es un aspecto fundamental que el guía muestre la incomodidad de esperar a alguien sin una causa justificada. La forma adecuada de plantear la puntualidad es basarla en el respeto a los demás. En caso de retraso de algún participante, debe estar atento a recibir a los que llegan tarde, interesándose por lo que les ha sucedido:  si han sufrido algún percance, muestre su interés por lo sucedido antes que llamarle la atención frente al grupo sin averiguar lo ocurrido.   Si no les ha sucedido nada de gravedad, de manera educada en privado, haga ver las consecuencias en el itinerario, para que sienta la necesidad de pedir una disculpa y evitar repetir la tardanza.  Si a pesar de las llamadas de atención en privado continúan llegando tarde, es conveniente buscar un motivo que obligue a ello, eximiendo al guía de responsabilidad, por ejemplo, la imposibilidad de estar esperándolos en determinados lugares por las reglas del destino o atractivo, el horario inamovible de un vuelo, entre otras.  Para dar mayor credibilidad se procede a dar el precio y hora de los transportes públicos hacia el próximo destino. Si se amenaza, hay que ser conscientes de que se debe cumplir, por tanto, solo recurrirá a ella cuando no haya mucha dificultad en llegar al destino, por ejemplo, en los traslados dentro de la misma ciudad.
 
       .row.mb-4
         .col-auto(data-aos="fade")
@@ -253,7 +253,7 @@
           figure.mb-2
             img(src='@/assets/curso/tema2/fig6.svg', alt='Texto que describa la imagen')
         .col-lg-8(data-aos="fade-left")
-          p.mb-0 En los meses de mayor afluencia turística, ni a los meseros, ni a los cocineros u otros prestadores de servicios les agrada tener que realizar cambios de última hora en lo ofertado y aprobado. El cambio de un menú, por ejemplo, supone un costo adicional para el restaurante que ya ha preparado el total de menús reservados en función de lo acordado; aunque es posible solicitar cambios siempre y cuando no afecte ampliamente un presupuesto.  Por lo tanto, es ideal evitar esta situación, dando la información clara al grupo antes de la llegada al restaurante, identificando necesidades especiales como veganos, vegetarianos, celíacos o personas con algún tipo de alergia a determinados alimentos.  El hacer un cambio por capricho un pasajero se puede entenderse como un trato preferente y generar inconformidad en los otros usuarios, recuerde, explicar las condiciones generales del servicio antes de empezar la guianza, explique por ejemplo en que consiste el menú del almuerzo y en caso de requerimientos adicionales pueden buscarse opciones pero que si tiene un costo adicional hay que buscar soluciones con equidad.  
+          p.mb-0 En los meses de mayor afluencia turística, ni a los meseros, ni a los cocineros u otros prestadores de servicios les agrada tener que realizar cambios de última hora en lo ofertado y aprobado. El cambio de un menú, por ejemplo, supone un costo adicional para el restaurante que ya ha preparado el total de menús reservados en función de lo acordado; aunque es posible solicitar cambios siempre y cuando no afecte ampliamente un presupuesto.  Por lo tanto, es ideal evitar esta situación, dando la información clara al grupo antes de la llegada al restaurante, identificando necesidades especiales como veganos, vegetarianos, celíacos o personas con algún tipo de alergia a determinados alimentos.  El hacer un cambio por un capricho de un pasajero se puede entender como un trato preferente y generar inconformidad en los otros usuarios, recuerde, explicar las condiciones generales del servicio antes de empezar la guianza, explique por ejemplo en qué consiste el menú del almuerzo y en caso de requerimientos adicionales pueden buscarse opciones pero que si tiene un costo adicional hay que buscar soluciones con equidad.  
 
       .row.align-items-center.mb-4
         .col-lg-1.col-md-2.col-4(data-aos="fade-right")
@@ -347,10 +347,10 @@
               p Use los pasos peatonales, esperar a que los semáforos vehiculares están en rojo, desplazar al grupo preferiblemente por andenes anchos. 
             li
               i.fas.fa-paper-plane 
-              p.mb-0 En tramos cortos, el guía debe ir adelante pero siempre pendiente del avance del grupo. En caso de que el guía requiera ir hacia atrás del grupo debe dejar un líder con la recomendación que sigan hasta un punto determinado o parar al llegar a la esquina o cruce de calles.  En caso de que se asigne más de un guía al servicio, uno deberá estar siempre adelante, dirigiendo el trayecto, el otro deberá colaborar en el traslado general del grupo. Estas funciones pueden ir rotando. En caso de que un turista realice una pregunta a un guía acompañante, éste no debe contradecir o desmedrar la información del guía líder, es ideal colaborarse entre sí y no disputarse el trabajo. 
+              p.mb-0 En tramos cortos, el guía debe ir adelante pero siempre pendiente del avance del grupo. En caso de que el guía requiera ir hacia atrás del grupo debe dejar un líder con la recomendación que sigan hasta un punto determinado o parar al llegar a la esquina o cruce de calles.  En caso de que se asigne más de un guía al servicio, uno deberá estar siempre adelante, dirigiendo el trayecto, el otro deberá colaborar en el traslado general del grupo. Estas funciones pueden ir rotando. En caso de que un turista realice una pregunta a un guía acompañante, este no debe contradecir o desmedrar la información del guía líder, es ideal colaborarse entre sí y no disputarse el trabajo. 
             li
               i.fas.fa-paper-plane 
-              p.mb-0 Se recomienda que el guía no dé información de importancia mientras va caminando. Porque sólo lo escucharán las personas que tiene inmediatamente a su lado y el resto no, además caminar y recibir demasiada información cansan física y psíquicamente al turista y genera una experiencia desagradable. Los tramos de traslado se deben tomar como lo que son. En caso de querer dar una información, se deberá parar nuevamente al grupo, dar la información y luego seguir. En caso de que un turista realice una pregunta durante el traslado, si la misma reviste importancia se puede hacer la referencia en la próxima parada y responder a todo el grupo. Por ejemplo “Esteban me preguntó algo muy interesante y quiero contarles a todos”. En caso de que sea una pregunta que no revista importancia dentro de la información general del grupo se responde allí mismo al turista que preguntó (Gobierno de provincia de Salta, Ministerio de Cultura y Turismo, 2006). 
+              p.mb-0 Se recomienda que el guía no dé información de importancia mientras va caminando. Porque solo lo escucharán las personas que tiene inmediatamente a su lado y el resto no, además caminar y recibir demasiada información cansan física y psíquicamente al turista y genera una experiencia desagradable. Los tramos de traslado se deben tomar como lo que son. En caso de querer dar una información, se deberá parar nuevamente al grupo, dar la información y luego seguir. En caso de que un turista realice una pregunta durante el traslado, si la misma reviste importancia se puede hacer la referencia en la próxima parada y responder a todo el grupo. Por ejemplo “Esteban me preguntó algo muy interesante y quiero contarles a todos”. En caso de que sea una pregunta que no revista importancia dentro de la información general del grupo se responde allí mismo al turista que preguntó (Gobierno de provincia de Salta, Ministerio de Cultura y Turismo, 2006). 
     
     .bg_grad-13        
       .row.mb-4
@@ -473,7 +473,7 @@
       .col-lg-8(data-aos="fade-right")
         .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4 
           p.mb-4 El tono de voz debe cubrir correctamente la zona donde se encuentra el grupo, si el guía gira hacia el monumento, su campo de voz no cubre al auditorio y la consecuencia es que el cliente ve perfectamente la nuca del guía al mismo tiempo que deja de oírlo, con lo que se cometen simultáneamente dos errores, uno con respecto al lenguaje no verbal y otro con lenguaje oral. 
-        p.mb-4 El tono de voz se debe adecuar al tipo de grupo y al lugar donde se esté guiando. No es lo mismo un grupo de ancianos, que uno de jóvenes o niños. En cualquiera de los casos se debe modular bien y hablar claro. El grupo nunca debe esforzarse por escuchar bien. En lugares con demasiado tránsito vehicular o excesivo ruido, el guía puede apoyarse de un altavoz y ubicarse en una zona más alto que el grupo para que lo escuchen mejor. Ante todo, evite gritar, la correcta la modulación de la voz permite mantener el interés del grupo guiado. 
+        p.mb-4 El tono de voz se debe adecuar al tipo de grupo y al lugar donde se esté guiando. No es lo mismo un grupo de ancianos, que uno de jóvenes o niños. En cualquiera de los casos se debe modular bien y hablar claro. El grupo nunca debe esforzarse por escuchar bien. En lugares con demasiado tránsito vehicular o excesivo ruido, el guía puede apoyarse de un altavoz y ubicarse en una zona más alto que el grupo para que lo escuchen mejor. Ante todo, evite gritar, la correcta modulación de la voz permite mantener el interés del grupo guiado. 
       .col-lg-4(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/img8.jpg", alt="alt")
@@ -507,7 +507,7 @@
             p.mb-0 Establecer un plan de manejo de los residuos sólidos.
           li
             i.fas.fa-paper-plane 
-            p.mb-0 Informar a los turistas las indumentaria y opciones para hidratación y alimentación durante la actividad. 
+            p.mb-0 Informar a los turistas la indumentaria y opciones para hidratación y alimentación durante la actividad. 
           li
             i.fas.fa-paper-plane 
             p.mb-0 Determinar grado de dificultad y tipología de la caminata 

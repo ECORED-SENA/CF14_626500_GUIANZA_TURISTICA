@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Turismo Accesible     
+      h1 Turismo accesible     
 
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-8(data-aos="fade-right")
@@ -32,7 +32,7 @@
           figure
             img(src='@/assets/curso/tema3/icon1.svg', alt='Texto que describa la imagen')
         .col-lg-11.col-md-10.col-9(data-aos="fade-left")
-          p.mb-0 Un importante avance ligado a la evolución de los medios electrónicos de comunicación es el diseño y publicación en Internet de guías turísticas on-line específicas sobre turismo accesible, en algunos casos por regiones geográficas, en otros por países y en numerosas ocasiones hasta por ciudades. El turista con discapacidad puede acceder a ellas desde cualquier computadora en forma gratuita, consultar instalaciones accesibles, servicios, excursiones y actividades, tarifas, efectuar reservas, etc. (Fuentes, 2015, p. 23).
+          p.mb-0 Un importante avance ligado a la evolución de los medios electrónicos de comunicación es el diseño y publicación en Internet de guías turísticas <em>on-line</em> específicas sobre turismo accesible, en algunos casos por regiones geográficas, en otros por países y en numerosas ocasiones hasta por ciudades. El turista con discapacidad puede acceder a ellas desde cualquier computadora en forma gratuita, consultar instalaciones accesibles, servicios, excursiones y actividades, tarifas, efectuar reservas, etc. (Fuentes, 2015, p. 23).
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8(data-aos="fade-right")
@@ -57,7 +57,7 @@
                 p.mb-0 Haciendo accesible a Europa a los turistas con discapacidades.
               li
                 i.fas.fa-paper-plane 
-                p.mb-0 Guía on-line de viaje para turistas discapacitados.
+                p.mb-0 Guía <em>on-line</em> de viaje para turistas discapacitados.
               li
                 i.fas.fa-paper-plane 
                 p.mb-0 Criterios uniformes para la accesibilidad de lugares turísticos e infraestructura para personas discapacitadas.
@@ -244,7 +244,7 @@
                         p.mb-0 Por lo general requieren de ayuda de otras personas para realizar las actividades cotidianas; también requieren el acompañamiento de intérpretes.
                       li
                         i.fas.fa-paper-plane 
-                        p.mb-0 Estas personas necesitan herramientas tecnológicas de tipo hápticas ya que la persona con esta condición, por lo general desarrollo el sentido del tacto; también requieren herramientas de tiflotécnicas, las cuales son utilizadas por las personas ciegas principalmente.
+                        p.mb-0 Estas personas necesitan herramientas tecnológicas de tipo hápticas ya que la persona con esta condición, por lo general desarrolla el sentido del tacto; también requieren herramientas de tiflotécnicas, las cuales son utilizadas por las personas ciegas principalmente.
               .col-lg-4.col-md-8.col-8
                 figure
                   img(src='@/assets/curso/tema3/9.jpg', alt='Texto que describa la imagen') 
@@ -588,7 +588,7 @@
                         p.mb-0 Las mujeres que se encuentran embarazadas pueden tener a su cuidado uno o más niños, así como pueden llegar a tener juguetes, maletines, pañaleras, etc. Estas personas requieren de unas condiciones de accesibilidad específica y la implementación de un protocolo de servicios.
                       li
                         i.fas.fa-paper-plane 
-                        p.mb-0 Durante el periodo de gestación se incrementan las posibilidades de poder desarrollar afecciones a la salud, también se experimentan cambios emocionales y el comportamiento.
+                        p.mb-0 Durante el periodo de gestación se incrementan las posibilidades de poder desarrollar afecciones a la salud, también se experimentan cambios emocionales y en el comportamiento.
                       li
                         i.fas.fa-paper-plane 
                         p.mb-0 Estas personas tienen requerimientos adicionales durante su periodo de embarazo y después del parto, es por esto que requieren de una especial atención.
@@ -620,7 +620,7 @@
                         p.mb-0 Por los elementos con los que se movilizan estas personas pueden afectar la movilidad y locomoción de las otras personas.
                       li
                         i.fas.fa-paper-plane 
-                        p.mb-0 Estas personas requieren que se tengan en cuenta algunos criterios de accesibilidad, como lo pueden ser escaleras, rampas plataformas elevadoras y ascensores; a la vez requieren momentos de pausa y descanso.
+                        p.mb-0 Estas personas requieren que se tengan en cuenta algunos criterios de accesibilidad, como lo pueden ser escaleras, rampas, plataformas elevadoras y ascensores; a la vez requieren momentos de pausa y descanso.
               .col-lg-4.col-md-8.col-8 
                 figure
                   img(src='@/assets/curso/tema3/20.jpg', alt='Texto que describa la imagen') 
@@ -706,7 +706,7 @@
                 figure.mb-2
                   img(src='@/assets/curso/tema3/vec1.svg', alt='Texto que describa la imagen')
               .col-lg-11.col-md-10.col-10
-                p.mb-2 Preguntaré a una persona con discapacidad, antes de actuar, si quiere que lo ayude y sobre todo como lo puedo ayudar.
+                p.mb-2 Preguntaré a una persona con discapacidad, antes de actuar, si quiere que lo ayude y sobre todo cómo lo puedo ayudar.
               .col-lg-1.col-md-2.col-2
                 figure.mb-2
                   img(src='@/assets/curso/tema3/vec1.svg', alt='Texto que describa la imagen')
@@ -718,7 +718,7 @@
                 figure.mb-2
                   img(src='@/assets/curso/tema3/vec1.svg', alt='Texto que describa la imagen')
               .col-lg-11.col-md-10.col-10
-                p.mb-2 Eliminaré de mi vocabulario los términos paralíticos, invalido, minusválido, parapléjico y discapacitado, cuando me refiera a una persona con discapacidad.
+                p.mb-2 Eliminaré de mi vocabulario los términos paralíticos, inválido, minusválido, parapléjico y discapacitado, cuando me refiera a una persona con discapacidad.
               .col-lg-1.col-md-2.col-2
                 figure.mb-2
                   img(src='@/assets/curso/tema3/vec1.svg', alt='Texto que describa la imagen')
@@ -761,7 +761,7 @@
             p.mb-0 Personas en situación de discapacidad visual.
           li
             i.fas.fa-paper-plane 
-            p.mb-0 Personas con Discapacidad Visual y Auditiva.
+            p.mb-0 Personas con discapacidad visual y auditiva.
           li
             i.fas.fa-paper-plane 
             p.mb-0 Personas en situación de discapacidad cognitiva/intelectual.
@@ -875,7 +875,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema3/fig3.svg')
         .col-lg-8(data-aos="fade-left")
-          p.mb-0 Por lo general las personas que presentan discapacidad auditiva no requieren de un acompañamiento especial, pero en situaciones de emergencia si es indispensable que se tengan los canales de comunicación idóneos para poder explicarle al turista lo que está sucediendo, es fundamental que el guía se asegure que el mensaje se ha entendido. En cuanto a la prestación del servicio de guianza turística, sí el guía no domina la lengua de señas, se debe prever el uso de un intérprete, claro está que cuando se trata de grupos familiares, dentro del mismo grupo familiar existen intérpretes que pueden ayudar para transmitir la información;  así como se mencionó anteriormente, es bueno invitar e involucrar al turista para que participe en las actividades propias del recorrido, la ayuda de material impreso, imágenes y demás elementos visuales favorecen la realización del recorrido.
+          p.mb-0 Por lo general las personas que presentan discapacidad auditiva no requieren de un acompañamiento especial, pero en situaciones de emergencia sí es indispensable que se tengan los canales de comunicación idóneos para poder explicarle al turista lo que está sucediendo, es fundamental que el guía se asegure que el mensaje se ha entendido. En cuanto a la prestación del servicio de guianza turística, si el guía no domina la lengua de señas, se debe prever el uso de un intérprete, claro está que cuando se trata de grupos familiares, dentro del mismo grupo familiar existen intérpretes que pueden ayudar para transmitir la información;  así como se mencionó anteriormente, es bueno invitar e involucrar al turista para que participe en las actividades propias del recorrido, la ayuda de material impreso, imágenes y demás elementos visuales favorecen la realización del recorrido.
 
       .row.mb-4(data-aos="fade")
         .col-auto
@@ -957,7 +957,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       .h2 3.2 Condiciones en la infraestructura y los servicios
 
-    p.mb-4(data-aos="fade-right") En la prestación del servicio de guianza turística para personas en situación de discapacidad, no basta únicamente con tener los conocimientos generales para atender al turista según sea su condición; también es fundamental analizar aspectos puntuales de las instalaciones donde se llevarán los turistas, es por esto el Ministerio de Comercio Industria y Turismo (2019) relaciona algunas aspectos puntuales con los que debe contar escenarios y lugares directamente ligados al turismo, a continuación se mencionan estas condiciones: 
+    p.mb-4(data-aos="fade-right") En la prestación del servicio de guianza turística para personas en situación de discapacidad, no basta únicamente con tener los conocimientos generales para atender al turista según sea su condición; también es fundamental analizar aspectos puntuales de las instalaciones donde se llevarán los turistas, es por esto que el Ministerio de Comercio Industria y Turismo (2019) relaciona algunas aspectos puntuales con los que debe contar escenarios y lugares directamente ligados al turismo, a continuación se mencionan estas condiciones: 
 
     .row.align-items-center.mb-4
       .col-lg-12(data-aos="fade")

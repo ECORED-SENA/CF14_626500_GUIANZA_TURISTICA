@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Implementación de la experiencia
+      h1 Servicio al cliente en el guionaje  
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-md-8.col-12(data-aos="fade-right")
@@ -14,7 +14,7 @@
           img(src='@/assets/curso/tema1/img1.jpg', alt='')
       .col-lg-8.col-md-12.col-12(data-aos="fade-left")
         p.mb-2 El perfil del guía de turismo integra calidad y capacidades específicas para manejar todo tipo de situaciones que se presentan en el presente siglo que trae sus dinámicas complejas y cambios vertiginosos.  De este modo, el servicio al cliente presenta pautas de atención en la felicitación, peticiones, quejas y reclamos (FPQR), protocolos y buenas prácticas, por lo que se marca un camino de la actuación del guía a través de un marco que describe la prestación de este servicio.
-        p.mb-2El servicio en guianza se realiza antes, durante y después de la adquisición de un producto o del disfrute de un servicio por parte de un cliente, de ahí su relevancia. El servicio es un concepto técnico y debe diferenciarse del servilismo, caracterizado por un cliente que tiene la suficiente autoridad, como para que el guía haga, todo lo que él diga, es decir, seguir la corriente o hacer caso a lo que solicite sin ningún análisis o criterio valorativo, por el contrario, el servicio el cliente tiene como premisa lo que el cliente pueda comunicar de sus intereses, deseos o necesidades y todas las acciones se enfocan en aumentar el nivel de su satisfacción.  
+        p.mb-2El El servicio en guianza se realiza antes, durante y después de la adquisición de un producto o del disfrute de un servicio por parte de un cliente, de ahí su relevancia. El servicio es un concepto técnico y debe diferenciarse del servilismo, caracterizado por un cliente que tiene la suficiente autoridad, como para que el guía haga, todo lo que él diga, es decir, seguir la corriente o hacer caso a lo que solicite sin ningún análisis o criterio valorativo, por el contrario, el servicio al cliente tiene como premisa lo que el cliente pueda comunicar de sus intereses, deseos o necesidades y todas las acciones se enfocan en aumentar el nivel de su satisfacción.  
         .cajon.color-primario(style='background-color: #FFD667').p-4
           p.mb-0 La satisfacción o la falta de ella, es la diferencia entre cómo espera el cliente que le traten y cómo percibe que lo están tratando. Al respecto se vale las técnicas de comunicación y atención que se usan entre otras.
 
@@ -76,7 +76,7 @@
                 figure
                   img(src='@/assets/curso/tema1/4.png', alt='')
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Frialdad")
+          .tarjeta.clr-paleYellow.p-4(titulo="Evasivas")
             .row 
               .col-lg-7
                 h5 Evasivas
@@ -195,7 +195,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade")
-      .h2 1.1 Herramientas de comunicación interpretativaPautas de atención y manejo de felicitaciones, peticiones, quejas y reclamos (FPQR).
+      .h2 1.1 Pautas de atención y manejo de felicitación, peticiones, quejas y reclamos
 
     .row.align-items-center.mb-4
       .col-lg-6(data-aos="fade-right")
@@ -334,7 +334,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8(data-aos="fade-right")
         p.mb-4 Un protocolo de atención es un documento que expresa un proceso determinado de la empresa, definiendo la unidad técnica, y por ende la forma de actuar homogénea frente a algo. Los protocolos de servicio fortalecen la imagen de la empresa, garantizan una prestación del servicio con calidad, generan confianza y lealtad con los clientes y crean sentido de pertenencia a los equipos de trabajo.
-        p.mb-0 Según la Real Academia Española, RAE, un protocolo es <b> <FONT COLOR="#FD6300"> es “una secuencia detallada de un proceso de actuación científica, técnica, médica, etc”. </FONT> </b> Para la guianza proporciona los parámetros a seguir en recorridos turísticos naturales o culturales, en el cumplimiento de la labor. Los pasos para acoplar los protocolos en el servicio son (ver figuras 2 y 3):
+        p.mb-0 Según la Real Academia Española, RAE, un protocolo es <b> <FONT COLOR="#FD6300"> “una secuencia detallada de un proceso de actuación científica, técnica, médica, etc”. </FONT> </b> Para la guianza proporciona los parámetros a seguir en recorridos turísticos naturales o culturales, en el cumplimiento de la labor. Los pasos para acoplar los protocolos en el servicio son (ver figuras 2 y 3):
       .col-lg-4.col-md-8.col-8(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/8.png', alt='')
@@ -424,7 +424,7 @@
               | NTS-GT010 Prestación del servicio de guianza de acuerdo con lo requerido por el pasajero de cruceros, sujeto a un itinerario de llegada y salida del barco. 
             li
               i.fas.fa-paper-plane 
-              | NTS-GT011 Conducción de grupos en recorridos de cabalgata. Es un deber conocer esta normativa, por eso se invita a revisarlas en línea en el siguiente enlace.
+              | NTS-GT011 Conducción de grupos en recorridos de cabalgata. 
 
       .row.justify-content-center.mb-4
         .col-lg-10(data-aos="fade-up")
@@ -448,9 +448,9 @@
         .cajon.color-secundario(style='background-color: #E2EBDE').p-4.mb-4
           p.mb-0 Las Normas Técnicas Sectoriales son los parámetros especializados que definen el paso a paso, condiciones de calidad y pertinencia de las acciones de profesionales del turismo. Se proyectan desde la política pública con la participación de los sectores, empresas, educación y capacitación, y tienen como función orientar y parametrizar de forma específica los procesos y procedimientos laborales de prestadores de servicios.
         p.mb-4 Desde las normas de seguridad y medio ambiente hasta las normas sectoriales relacionadas con la prestación del servicio de guianza turística, se establecen orientaciones que el guía de turismo debe tener en cuenta para darle calidad al servicio guiado al elaborar los planes de acción y de contingencia de acuerdo con los objetivos establecidos. 
-        p.mb-4 La normatividad en general es materia de estudio para el guía, entendiendo que al ser un conjunto de normas algunas legales, sectoriales o de desarrollo, definen, regulan o se rige determinada materia o actividad incluido el servicio.
+        p.mb-4 La normatividad en general es materia de estudio para el guía, entendiendo que al ser un conjunto de normas, algunas legales, sectoriales o de desarrollo, definen, regulan o se rige determinada materia o actividad, incluido el servicio.
         p.mb-4 Toda actividad humana relacionada con el trabajo necesita regirse por procesos y procedimientos; los procesos organizan los momentos, tiempos, acciones relacionadas con la labor que llevan al cumplimiento de objetivos. Los procedimientos, constituyen los métodos y técnicas que  identifican el paso a paso e integración de momentos y acciones de individuos bajo unos propósitos de orden, base legal y alcance, que hacen parte de la estructuración y metas de la organización, que identifica a la empresa y refleja la cultura de hacer las cosas.
-        p.mb-4 A continuación, se presentan procesos y procedimientos del servicio prestado por un guía(ver tabla 3):
+        p.mb-4 A continuación, se presentan procesos y procedimientos del servicio prestado por un guía (ver tabla 3):
       .col-lg-4.col-md-8.col-8(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img9.jpg', alt='')
@@ -526,7 +526,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/imgtext.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 TAprobado en 1999 por la asamblea general de la Organización Mundial del Turismo, fue reconocido por las Naciones Unidas que explícitamente acompaña y apoya a la OMT, a promover el cumplimiento eficiente de las disposiciones escritas en este documento.  El código carece de jurisprudencia, es decir, no relaciona castigo alguno y es un mecanismo de aplicación voluntaria, con reconocimiento del papel del Comité Mundial de Ética del Turismo, si las partes pueden remitir cualquier cuestión relativa a la aplicación e interpretación del documento especialmente cuando hay incumplimiento.
+        p.mb-0 Aprobado en 1999 por la asamblea general de la Organización Mundial del Turismo, fue reconocido por las Naciones Unidas que explícitamente acompaña y apoya a la OMT, a promover el cumplimiento eficiente de las disposiciones escritas en este documento.  El código carece de jurisprudencia, es decir, no relaciona castigo alguno y es un mecanismo de aplicación voluntaria, con reconocimiento del papel del Comité Mundial de Ética del Turismo, si las partes pueden remitir cualquier cuestión relativa a la aplicación e interpretación del documento especialmente cuando hay incumplimiento.
 
     p.mb-4(data-aos="fade-right") Con tan sólo diez artículos el código cubre los componentes de las estructuras relacionadas con el turismo en cuanto a lo económico, social, cultural y ambiental de los viajes:
 
