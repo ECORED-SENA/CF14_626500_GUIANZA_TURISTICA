@@ -80,7 +80,7 @@
             .row 
               .col-lg-7
                 h5 Evasivas
-                p Lo siento la persona encargada no está”, “en este momento no puedo atenderlo”, “nosotros no prestamos ese tipo de servicios”, frases que evaden o evitan una respuesta. Es más eficiente mostrar alternativas, aconsejar opciones frente a la situación que le presenta el cliente.
+                p "Lo siento la persona encargada no está", “en este momento no puedo atenderlo”, “nosotros no prestamos ese tipo de servicios”, frases que evaden o evitan una respuesta. Es más eficiente mostrar alternativas, aconsejar opciones frente a la situación que le presenta el cliente.
               .col-lg-5
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='')
